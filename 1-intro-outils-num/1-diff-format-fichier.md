@@ -21,7 +21,7 @@ Quand on parle de résolution, on parle du nombre de pixels par pouce (ppp ou dp
 
 Lorsqu'on crée des images pour le web, on utilise le 72dpi, ce qui est la norme pour avoir des images de bonne tailles et qualité sans pour autant avoir des fichiers trop volumineux. 
 
-Si on veut imprimer une affiche géante, on va devoir plutôt utiliser une résolution de 300dpi.
+Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution de 300dpi.
 
 ![résolution](./img/resolution.jpeg)
 
@@ -29,9 +29,7 @@ Si on veut imprimer une affiche géante, on va devoir plutôt utiliser une réso
 
 ### Image Vectorielle vs Matricielle
 
-Voyons un peu la différence entre ces deux termes. Il est fort probable que vous vous ayez déjà entendu parler de pixels mais sans doute moins des vecteurs.
-
--**matricielle**: il s'agit d'une image constitué de pixels. Ce sont despetits carrés qui, une fois mis l'un à côté de l'autre, forment une image. Chaque carrés à sa couleur définit. Plus la résolution est élevé plus leur nombre est important et plus leurs taille est petite, et donc plus l'image sera de meilleur qualité. Si vous déformez cette image, cela va étirer les pixels et vous aurez une image floue.
+-**matricielle**: il s'agit d'une image constitué de pixels. Ce sont des petits carrés qui, une fois mis l'un à côté de l'autre, forment une image. Chaque carrés à sa couleur définit. Plus la résolution est élevé plus leur nombre est important et plus l'image sera de meilleur qualité. Si vous déformez cette image, cela va étirer les pixels et vous aurez une image floue.
 
 -**vectorielle**: une image vectorielle est une suite de segment formé par des points qui sont définis par des formules mathématique. N'ayez crainte, pas besoin de savoir faire des maths pour créer des images vectorielles. L'avantage est que chaque élément à sa place et que si on veut agrandir l'image cela aura pour effet de recalculer la position des segments et ainsi conservé la qualité de l'image original. Le vectoriel est ce qu'on utilise pour réaliser des affiches de plusieurs mètres par exemple.
 
@@ -60,5 +58,5 @@ Chaque logiciel graphique à son propre fichier source, nous allons voir les deu
 
 ## Fichier web
 
-
+Comme pour les images, le web à ses propres formats de fichiers. 
 
