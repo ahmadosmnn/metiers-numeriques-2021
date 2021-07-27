@@ -37,11 +37,11 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 
 ## L'interface
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Créer un nouveau document
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Les outils principaux
 
@@ -55,24 +55,24 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 
 ### Retouches
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Ouvrir / Importer une image
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Détourage
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Calques de réglages
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Filtres
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Exercices
 
-[:arrow_up: Revenir au top](#adobe-photoshop)
+[:arrow_up: Revenir au top](#table-des-matières)

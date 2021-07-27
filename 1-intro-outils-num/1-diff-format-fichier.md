@@ -26,7 +26,7 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 ![résolution](./img/1/resolution.jpeg)
 
-[:arrow_up: Revenir au top](#différents-types-de-fichiers)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ### Image Vectorielle vs Matricielle
 
@@ -36,7 +36,7 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 ![vecteur-vs-pixel](img/1/vecteur-vs-matricielle.png)
 
-[:arrow_up: Revenir au top](#différents-types-de-fichiers)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ### Formats fichier image
 
@@ -44,7 +44,7 @@ Une image peut être créer dans différents formats tels que **.jpg, .jpeg, .gi
 
 ![diff-format-images](img/1/Format-image-difference-jpg-gif-png-svg.jpeg)
 
-[:arrow_up: Revenir au top](#différents-types-de-fichiers)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 #### Le cas du WebP
 
@@ -61,7 +61,7 @@ Chaque logiciel graphique à son propre fichier source, nous allons voir les deu
 - **psd**: PhotoShop Document, il stock toutes les options disponible dans le logiciel. Cela inclut les calques et leurs masques, la transparence, le texte, les couches alpha, les couleurs, les segments, les filtres,... Cela permet d'avoir toujours accès aux modifications apportés à nos contenus en cas de correction nécessaire. 
 - **ai**: Adobe Illustrator, un peu comme le psd, ce fichier stock toutes les options du programme dans un fichier pour pouvoir éditer de nouveau l'illustration crée.
 
-[:arrow_up: Revenir au top](#différents-types-de-fichiers)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Fichier web
 
@@ -77,4 +77,4 @@ Voyons les quelques formats qu'on va rencontrer ensemble ces prochains jours.
 
 Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme .php ou .scss. Mais vous verrez ceux-ci en temps voulu.
 
-[:arrow_up: Revenir au top](#différents-types-de-fichiers)
+[:arrow_up: Revenir au top](#table-des-matières)

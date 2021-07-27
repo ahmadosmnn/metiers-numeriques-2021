@@ -29,6 +29,6 @@ Vous pouvez retrouver le ```.psd``` utilisé en exemple en [le téléchargeant i
 
 Voici également un lien vers un tuto [Adobe Photoshop](https://helpx.adobe.com/be_fr/photoshop/how-to/ps-layers-basics.html) qui explique plus en profondeurs l'utilisations des calques. Pas de panique, nous verrons cela ensemble.
 
-[:arrow_up: Revenir au top](#les-fondamentaux)
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ##
