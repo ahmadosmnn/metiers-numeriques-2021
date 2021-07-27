@@ -10,6 +10,7 @@ L'informatique est remplit de type de fichiers différents, qu'on parle de fichi
   - [Résolution d'une image](#résolution-dune-image)
   - [Image Vectorielle vs Matricielle](#image-vectorielle-vs-matricielle)
   - [Formats fichier image](#formats-fichier-image)
+    - [Le cas du WebP](#le-cas-du-webp)
   - [Sources](#sources)
 - [Fichier web](#fichier-web)
 
@@ -23,7 +24,7 @@ Lorsqu'on crée des images pour le web, on utilise le 72dpi, ce qui est la norme
 
 Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution de 300dpi.
 
-![résolution](./img/resolution.jpeg)
+![résolution](./img/1/resolution.jpeg)
 
 [:arrow_up: Revenir au top](#différents-types-de-fichiers)
 
@@ -33,7 +34,7 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 -**vectorielle**: une image vectorielle est une suite de segment formé par des points qui sont définis par des formules mathématique. N'ayez crainte, pas besoin de savoir faire des maths pour créer des images vectorielles. L'avantage est que chaque élément à sa place et que si on veut agrandir l'image cela aura pour effet de recalculer la position des segments et ainsi conservé la qualité de l'image original. Le vectoriel est ce qu'on utilise pour réaliser des affiches de plusieurs mètres par exemple.
 
-![vecteur-vs-pixel](img/vecteur-vs-matricielle.png)
+![vecteur-vs-pixel](img/1/vecteur-vs-matricielle.png)
 
 [:arrow_up: Revenir au top](#différents-types-de-fichiers)
 
@@ -41,9 +42,15 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 Une image peut être créer dans différents formats tels que **.jpg, .jpeg, .gif, .png, .svg,...** Chaque format à sa particularité, par exemple le **jpg** ne permet pas la transparence, le **gif** peut-être animé et transparent, le **png** ne peut-être animé mais propose la gestion de la transparence. Ces formats ont également leurs propre taux de compression, le **jpg** proposera toujours des images moins lourdes mais "de moins bonne qualité" que le **png**. Bref, chaque format à son utilisation.
 
-![diff-format-images](img/Format-image-difference-jpg-gif-png-svg.jpeg)
+![diff-format-images](img/1/Format-image-difference-jpg-gif-png-svg.jpeg)
 
 [:arrow_up: Revenir au top](#différents-types-de-fichiers)
+
+#### Le cas du WebP
+
+Ce format modern proposé par Google propose une compression plus importante que les formats cité plus haut et avec une perte en qualité moindre. Il gère également la transparence. Il est supporté nativement dans les navigateurs les plus connus.
+
+Il reste cependant certains logiciel comme Photoshop qui ne savent ni les ouvrir, ni les générer.
 
 ### Sources
 
@@ -58,5 +65,16 @@ Chaque logiciel graphique à son propre fichier source, nous allons voir les deu
 
 ## Fichier web
 
-Comme pour les images, le web à ses propres formats de fichiers. 
+Comme pour les images, le web à ses propres formats de fichiers. Ces fichiers contiennent des lignes de code pour déterminer leurs fonctionnalités.
 
+Voyons les quelques formats qu'on va rencontrer ensemble ces prochains jours.
+
+- **.html**: HyperText Markup Language, est un langage non pas de programmation mais de balisage. C'est lui qui permet de structurer le contenu de nos pages sémantiquement (transmettre au navigateur ce que l'on veut dire par nos contenus).
+- **.css**: Cascading Style Sheets, est un langage qui décrit les styles utilisés sur vos contenus web. Cela permet de mettre en forme vos textes, images et autres comme bon vous semble.
+- **.js**: JavaScript, est un langage de programmation qui va vous permettre d'ajouter des fonctionnalités dynamique 
+
+![css-html-js-logo](img/1/html_css_js.png)
+
+Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme .php ou .scss. Mais vous verrez ceux-ci en temps voulu.
+
+[:arrow_up: Revenir au top](#différents-types-de-fichiers)
