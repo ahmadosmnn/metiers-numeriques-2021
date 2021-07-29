@@ -7,9 +7,9 @@ Le logiciel à eu nombres de versions, à l'heure de ces lignes nous sommes à l
 
 Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en voici quelques-unes:
 
-- [Thomas Knoll, un des créateurs de Photoshop recré la première démo qu'il a fait du logiciel :us:](https://youtu.be/Tda7jCwvSzg)
-- [Des artistes VFX utilisent Photoshop 1 :us:](https://youtu.be/8LkUzVexLTU)
-- [Un graphiste utilise Photoshop 1 :us:](https://youtu.be/ftaIzyrMDqE)
+- [Thomas Knoll, un des créateurs de Photoshop recré la première démo qu'il a fait du logiciel :uk:](https://youtu.be/Tda7jCwvSzg)
+- [Des artistes VFX utilisent Photoshop 1 :uk:](https://youtu.be/8LkUzVexLTU)
+- [Un graphiste utilise Photoshop 1 :uk:](https://youtu.be/ftaIzyrMDqE)
 
 ![ps1](img/3/ps1-brush.png)
 
@@ -21,8 +21,8 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 
 <!-- omit in toc -->
 ## Table des matières 
-- [L'interface](#linterface)
 - [Créer un nouveau document](#créer-un-nouveau-document)
+- [L'interface](#linterface)
 - [Les outils principaux](#les-outils-principaux)
   - [Sélection](#sélection)
   - [Recadrage](#recadrage)
@@ -35,11 +35,29 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 - [Filtres](#filtres)
 - [Exercices](#exercices)
 
-## L'interface
+## Créer un nouveau document
+
+Lançons Photoshop et créons notre premier fichier. Pour ce faire cliquez sur le bouton ```Créer nouveau```
+
+![ps-interface](img/3/ps-interface.png)
+
+S'ouvre ensuite une nouvelle fenêtre qui permet de créer notre nouveau document.
+
+![ps-new-file](img/3/ps-new-file.png)
+
+Ce qui nous importe ici c'est le menu du haut avec les différents préréglages (Photo, Impression, Illustration, Web, Mobile,...). C'est là que l'on peut retrouver des formats de fichiers courants.
+
+Sélectionnons le réglage ```"Web - Le plus courant"```. Vous pouvez remarquer que dans la partie de droite de la fenêtre les dimensions, la résolution et d'autres paramètres se sont adaptés. Donnons également un titre à notre document. Puis on peut cliquer sur ```Créer```
+
+![ps-new-file2](img/3/ps-new-file2.png)
+
+
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-## Créer un nouveau document
+## L'interface
+
+
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
