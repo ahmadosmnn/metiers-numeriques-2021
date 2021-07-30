@@ -99,6 +99,8 @@ in
 
 ![selection](img/3/tools/retouche.svg)
 
+<img src="img/3/tools/retouche.svg" width="20px">
+
 ### Pipette
 
 ### Recadrage
