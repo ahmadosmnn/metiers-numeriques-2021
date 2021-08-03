@@ -40,7 +40,7 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 ### Formats fichier image
 
-Une image peut être créer dans différents formats tels que **.jpg, .jpeg, .gif, .png, .svg,...** Chaque format à sa particularité, par exemple le **jpg** ne permet pas la transparence, le **gif** peut-être animé et transparent, le **png** ne peut-être animé mais propose la gestion de la transparence. Ces formats ont également leurs propre taux de compression, le **jpg** proposera toujours des images moins lourdes mais "de moins bonne qualité" que le **png**. Bref, chaque format à son utilisation.
+Une image peut être créer dans différents formats tels que `.jpg`, .`jpeg`, `.gif`, `.png`, `.svg`,.. Chaque format à sa particularité, par exemple le `jpg` ne permet pas la transparence, le `gif` peut-être animé et transparent, le `png` ne peut-être animé mais propose la gestion de la transparence. Ces formats ont également leurs propre taux de compression, le `jpg` proposera toujours des images moins lourdes mais "de moins bonne qualité" que le `png` Bref, chaque format à son utilisation.
 
 ![diff-format-images](img/1/Format-image-difference-jpg-gif-png-svg.jpeg)
 
@@ -48,9 +48,9 @@ Une image peut être créer dans différents formats tels que **.jpg, .jpeg, .gi
 
 #### Le cas du WebP
 
-Ce format modern proposé par Google propose une compression plus importante que les formats cité plus haut et avec une perte en qualité moindre. Il gère également la transparence. Il est supporté nativement dans les navigateurs les plus connus.
+Le `.webp`est un format modern proposé par Google propose une compression plus importante que les formats cité plus haut et avec une perte en qualité moindre. Il gère également la transparence. Il est supporté nativement dans les navigateurs les plus connus.
 
-Il reste cependant certains logiciel comme Photoshop qui ne savent ni les ouvrir, ni les générer.
+Il reste cependant certains logiciel comme Photoshop qui ne savent ni les ouvrir, ni les générer. Il faut donc passer par d'autres outils comme des convertisseurs en ligne pour  les créer.
 
 ### Sources
 
@@ -58,8 +58,8 @@ Les formats vu plus haut sont tous des formats "exploitable" sur le web, c'est �
 
 Chaque logiciel graphique à son propre fichier source, nous allons voir les deux principaux que nous utiliseront lors de cette formation, mais il en existe autant que de logiciels différent. 
 
-- **psd**: PhotoShop Document, il stock toutes les options disponible dans le logiciel. Cela inclut les calques et leurs masques, la transparence, le texte, les couches alpha, les couleurs, les segments, les filtres,... Cela permet d'avoir toujours accès aux modifications apportés à nos contenus en cas de correction nécessaire. 
-- **ai**: Adobe Illustrator, un peu comme le psd, ce fichier stock toutes les options du programme dans un fichier pour pouvoir éditer de nouveau l'illustration crée.
+- `.psd`: PhotoShop Document, il stock toutes les options disponible dans le logiciel. Cela inclut les calques et leurs masques, la transparence, le texte, les couches alpha, les couleurs, les segments, les filtres,... Cela permet d'avoir toujours accès aux modifications apportés à nos contenus en cas de correction nécessaire. 
+- `.ai`: Adobe Illustrator, un peu comme le psd, ce fichier stock toutes les options du programme dans un fichier pour pouvoir éditer de nouveau l'illustration crée.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
@@ -69,12 +69,12 @@ Comme pour les images, le web à ses propres formats de fichiers. Ces fichiers c
 
 Voyons les quelques formats qu'on va rencontrer ensemble ces prochains jours.
 
-- **.html**: HyperText Markup Language, est un langage non pas de programmation mais de balisage. C'est lui qui permet de structurer le contenu de nos pages sémantiquement (transmettre au navigateur ce que l'on veut dire par nos contenus).
-- **.css**: Cascading Style Sheets, est un langage qui décrit les styles utilisés sur vos contenus web. Cela permet de mettre en forme vos textes, images et autres comme bon vous semble.
-- **.js**: JavaScript, est un langage de programmation qui va vous permettre d'ajouter des fonctionnalités dynamique 
+- `.html`: HyperText Markup Language, est un langage non pas de programmation mais de balisage. C'est lui qui permet de structurer le contenu de nos pages sémantiquement (transmettre au navigateur ce que l'on veut dire par nos contenus).
+- `.css`: Cascading Style Sheets, est un langage qui décrit les styles utilisés sur vos contenus web. Cela permet de mettre en forme vos textes, images et autres comme bon vous semble.
+- `.js`: JavaScript, est un langage de programmation qui va vous permettre d'ajouter des fonctionnalités dynamique 
 
 ![css-html-js-logo](img/1/html_css_js.png)
 
-Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme .php ou .scss. Mais vous verrez ceux-ci en temps voulu.
+Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme `.php` ou `.scss`. Mais vous verrez ceux-ci en temps voulu.
 
 [:arrow_up: Revenir au top](#table-des-matières)

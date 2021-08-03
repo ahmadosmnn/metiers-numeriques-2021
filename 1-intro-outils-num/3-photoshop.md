@@ -20,7 +20,8 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 > La fenêtre de l'outil pinceau en 2021
 
 <!-- omit in toc -->
-## Table des matières 
+## Table des matières
+
 - [Créer un nouveau document](#créer-un-nouveau-document)
 - [L'interface](#linterface)
   - [La gestion des interfaces](#la-gestion-des-interfaces)
@@ -98,8 +99,6 @@ in
 ### Sélection
 
 ![selection](img/3/tools/retouche.svg)
-
-<img src="img/3/tools/retouche.svg" width="20px">
 
 ### Pipette
 
