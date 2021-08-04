@@ -1,4 +1,3 @@
-:hammer_and_wrench: Work in progress :exclamation:
 <!-- omit in toc -->
 # Les différents métiers du numérique
 
@@ -14,11 +13,10 @@ Voyons ensemble une petite sélection des métiers du numérique liés au graphi
   - [Intégrateur-trice web :star:](#intégrateur-trice-web-star)
   - [Community manager](#community-manager)
   - [Webdesigner-euse](#webdesigner-euse)
-  - [Le reste](#le-reste)
 - [Graphisme](#graphisme)
   - [Infographiste](#infographiste)
   - [Graphiste](#graphiste)
-  - [Illustrateur](#illustrateur)
+  - [Illustrateur-rice](#illustrateur-rice)
   - [Motion Designer](#motion-designer)
   - [Maquettiste](#maquettiste)
   - [Photographe](#photographe)
@@ -81,48 +79,84 @@ Le webdesigner doit maîtriser les logiciels de graphisme (Photoshop, Illustrato
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### Le reste
-
-Il y a encore beaucoup d'autres métiers lié à la programmation comme par exemple tout ce qui est lié au Big Data ou à l'Intelligence Artificielle. Chaque domaine a évidement ses propres métiers associés. Mais on ne va pas les voir en détails, si ça vous intéresse ça peut faire **le sujet d'une veille!** :bulb:
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
 ## Graphisme
 
 ### Infographiste
 
 ![infographiste](img/infographiste.png)
 
+L'infographiste est un artiste qui conçoit et réalise les aspects graphiques (en 2D ou 3D) et artistiques d’un projet au moyen de logiciels informatiques spécifiques. Il travaille sur différents supports : sites internet, films d'animation, jeux vidéo, etc. Il se charge également de la typographie et de la mise en page de documents divers (invitations, cartes de visite, affiches, folders, etc.). Dans le domaine de l'audiovisuel, il est surtout chargé de créer des génériques, d'intégrer des effets spéciaux ou de participer à la réalisation de dessins animés. Dans le milieu du jeu vidéo, il intervient à différentes étapes au niveau de la mise en forme des images et de leurs enchaînements. Il peut même se spécialiser dans une discipline en particulier : personnages, décors, mouvement, lumière, etc. Dans la publicité ou l’édition, il se charge de la réalisation des sites internet et crée toutes sortes d’interfaces visuelles, animées ou non.
+
+Il commence par prendre connaissance du projet, de l'idée à faire passer et développe différentes propositions visuelles, représentant cette idée, à destination du « client ». Il se documente, se renseigne sur l’objectif du produit (pédagogique, ludique, artistique, etc.) et le public visé et crée une charte graphique à partir de dessins, de photos et de couleurs. Il assure ensuite le suivi du projet en apportant les modifications nécessaires.
+
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ### Graphiste
 
 ![graphiste](img/graphiste.png)
 
-### Illustrateur
+Le graphiste est chargé de concevoir et réaliser une image, un ensemble visuel, avec pour objectif de représenter une idée, un produit ou une marque et de participer ainsi à l’identité de l’entreprise ou d’un projet. Une fois qu’il a pris connaissance du message à faire passer, la première étape de son travail consiste en l'élaboration des ébauches, de croquis, qui permettront d'illustrer les idées du commanditaire. Pour cela, il utilise donc le dessin, les couleurs, la typographie afin de créer un visuel cohérent et accrocheur. Il conçoit ainsi des logos, du matériel promotionnel (affiches, flyers, cartes de visite, etc.), des couvertures d’ouvrages ou du packaging. Il peut aussi réaliser de la mise en page ou la charte graphique d’un site internet ou d’un logiciel, par exemple. Il travaille aussi bien avec un crayon qu’avec une souris d’ordinateur. Une fois que le commanditaire du projet est satisfait du travail du graphiste, ce dernier peut être amené à assurer le suivi de la production (fabrication, impression).
+
+Dans le cas de la conception d'un site web, il est amené à créer des écrans ou des interfaces avec le webdesigner. Très proche de l'opérateur PAO (Publication Assistée par Ordinateur) et de l'infographiste, il travaille souvent en étroite collaboration avec ces professionnels du graphisme.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+### Illustrateur-rice
 
 ![illustratrice](img/illustratrice.png)
 
+L'illustrateur conçoit et réalise, à la main ou à l'aide d'un logiciel de dessin, des illustrations destinées à mettre en images des contenus tels que des livres, des articles, des affiches publicitaires ou encore des emballages de produits.
+
+Pour cela, il se doit de bien comprendre le sens d'un texte, de reproduire l'idée, l'émotion à faire passer, le concept à représenter grâce à des images originales. Afin d'être le plus fidèle possible à l'idée de départ, l'illustrateur rencontre le client, se documente sur le sujet ou produit et réalise plusieurs esquisses. Au fil des différentes réunions, il soumet ses propositions et se voit souvent amené à les modifier, les améliorer en fonction des attentes de la clientèle. Ses réalisations peuvent être effectuées selon différentes techniques telles que le dessin mais aussi la peinture, le collage, la photo, la 3D, etc.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ### Motion Designer
 
-![motion-design](img/motion-designer.svg)
+![motion-design](img/motion-designer.png)
 
+Le motion designer crée des productions graphiques intégrant à la fois de la vidéo, de l’animation 2D et 3D, des effets spéciaux, du son, du texte… C’est à la fois un créatif et un technicien qui maîtrise de nombreux logiciels…
+
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ### Maquettiste
 
 ![maquettiste](img/maquettiste.png)
 
+Chaque mois, vous vous jetez sur votre magazine préféré avec l'impatience de voir les peoples, de connaître les derniers jeux vidéo ou de lire des articles sur votre sport ou loisir favori. Mais savez-vous pourquoi vous aimez tant feuilleter ces magazines ? Grâce au travail du maquettiste ! Ce professionnel de la mise en pages sait attirer votre oeil : choix des couleurs, place des images, textes et encadrés, police, corps et grosseur des titres et des textes, répartition des blancs : son objectif est de rendre les pages harmonieuses. Il peut participer à la création d'une maquette ou se consacrer à l'exécution, passant ainsi de longues heures devant son ordinateur. Ses principaux outils : les logiciels de PAO (publication assistée par ordinateur).
+
+Créatif, technicien, précis et curieux, il travaille sur des supports écrits (livre, journal, plaquette, etc.) ou multimédia (site web, DVD ou autre). Il est indépendant ou salarié dans un journal, une maison d'édition, une agence de publicité, un studio de création ou le service communication d'une entreprise.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ### Photographe
 
 ![photographer](img/photographer.png)
 
+Publicité, édition, presse, industrie : les domaines dans lesquels le photographe peut exploiter son talent ne manquent pas. Technicien de l'image avant tout, il joue avec les contrastes, la lumière, les plans et les effets afin d'exprimer un message.
+
+Que les prises de vue soient réalisées en studio ou en extérieur, le photographe prépare la série photo, repère les lieux et gère la technique. Le jour J, il encadre son équipe constituée au minimum d'un assistant photo, qui s'occupe du matériel, et d'un styliste photo, qui se charge des éléments de mise en scène. Un coiffeur et un maquilleur peuvent l'accompagner s'il prend des clichés de modèles. Les jours suivants, il s'occupe du tirage, sélectionne des clichés, retouche les images et les soumet au client.
+
+Il travaille le plus souvent en free-lance, sur commande, et jongle entre créativité et contraintes commerciales. Son travail requiert sens artistique et connaissance du matériel.
+
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Constante évolution
 
+Tous ces métiers ne sont qu'une petite portion des possibilités de travail dans le monde incroyable du numérique. Que ce soit en programmation ou en graphisme, on trouve des domaines tel que le Big Data ou à l'Intelligence Artificielle ou bien encore tous les métiers liés au cinéma, jeux vidéo,... Chacun de ces domaines ont évidement leurs propres métiers associés. Mais on ne va pas les voir en détails, si ça vous intéresse ça peut faire **le sujet d'une veille!** :bulb:
 
+Au fur et à mesure où les technologies avancent et les besoins des projets se complexifient, de nouveaux métiers se créent, d'autres se précisent et certains disparaissent.
 
+Si vous voulez travailler dans ce milieu, il faut savoir rester attentif à ces changements et ne pas avoir peur de vous renouveler. Être en constant apprentissage (veille technologique).
+
+[:arrow_up: Revenir au top](#table-des-matières)
 
 ## Sources
+
+[Métiers SIEP - Service d'Information sur les Études et les Profession](http://metiers.siep.be/)
 
 [CIDJ - Centre d'Information et de Documentation Jeunesse :fr:](https://www.cidj.com/metiers)
 
 [ONISEP - Office national d'information sur les enseignements et les professions](https://www.onisep.fr/)
+
+[:arrow_up: Revenir au top](#table-des-matières)

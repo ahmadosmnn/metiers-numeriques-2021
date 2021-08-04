@@ -8,7 +8,7 @@ Alors comme ça on veut se lancer dans le numérique mais on sait pas encore tro
 
 Ce cours se découpe en :five: séquences.
 
-0. Les différents métiers du numérique (:clock12: 1/2 jour)
+0. [Les différents métiers du numérique](0-differents-metiers/README.md) (:clock12: 1/2 jour)
 1. [Introduction aux outils numérique](1-intro-outils-num/README.md) (:clock12: 9 1/2 jours)
 2. HTML / CSS - niveau débutant (:clock12: 15 jours)
 3. JavaScript - niveau débutant (:clock12: 5 jours)
