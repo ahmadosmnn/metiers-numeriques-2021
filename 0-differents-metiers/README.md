@@ -104,7 +104,8 @@ Il y a encore beaucoup d'autres métiers lié à la programmation comme par exem
 
 ### Motion Designer
 
-![motion-design](img/motion-design2.gif)
+![motion-design](img/motion-designer.svg)
+
 
 ### Maquettiste
 
