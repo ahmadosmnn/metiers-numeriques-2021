@@ -9,7 +9,7 @@ Dans les prochaines sessions de cours nous allons utiliser des logiciels tels qu
 
 ## Le système de calques
 
-Si je vous parle de couche cela devrait vous aider à mieux comprendre les calques, après tout le terme en anglais est "layer". 
+Si je vous parle de couche cela devrait vous aider à mieux comprendre les calques, après tout le terme en anglais est "layer".
 
 ![calques](./img/2/calques.gif)
 
