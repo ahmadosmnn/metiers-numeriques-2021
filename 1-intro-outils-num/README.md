@@ -1,5 +1,3 @@
-:hammer_and_wrench: Work in progress :exclamation:
-
 # Introduction aux outils numériques
 
 Bienvenue à toi jeune entrepreneur du numérique. Ouai, ça veut pas dire grand chose, mais ça sonnait bien. Voici donc le cours concernant les outils numériques. Nous allons voir quelques principes clés qui nous serviront tout du long. On passera également sur quelques logiciels phares et sur leurs alternatives.

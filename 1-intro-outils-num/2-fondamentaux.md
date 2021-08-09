@@ -10,9 +10,10 @@ Dans les prochaines sessions de cours nous allons utiliser des logiciels tels qu
 - [CMJN / RVB](#cmjn--rvb)
   - [Le RVB c’est quoi ?](#le-rvb-cest-quoi-)
   - [Le CMJN c’est quoi ?](#le-cmjn-cest-quoi-)
-- [Hexadécimal / RGB(A) / CMJN / TSL](#hexadécimal--rgba--cmjn--tsl)
+- [Hexadécimal / RGB(A) / CMJN](#hexadécimal--rgba--cmjn)
   - [HEX RGB](#hex-rgb)
   - [RGB(A)](#rgba)
+  - [CMJN](#cmjn)
 
 ## Le système de calques
 
@@ -78,7 +79,7 @@ Le CMJN est donc le mode couleurs à utiliser pour toute impression afin de gara
 
 ![rvb-cmjn-diff](./img/2/rvb-cmjn.jpeg)
 
-## Hexadécimal / RGB(A) / CMJN / TSL
+## Hexadécimal / RGB(A) / CMJN
 
 Il y a plusieurs façon d'utiliser une couleur dans les logiciels graphique ou sur le web. Voyons-en déjà quelques unes.
 
@@ -97,3 +98,9 @@ Le RGB est une autre façon d'utiliser une couleur. Vous pouvez définir l'inten
 ```css
 p { color: rgba(100%, 0%, 0%, 0.5) }
 ```
+
+### CMJN
+
+Pour utiliser des couleurs CMJN il suffit de renseigner une valeur de 0 à 100% pour chacune de ces couleurs. Le logiciel ferra le "mélange" lui-même.
+
+![cmjn](img/2/cmjn.png)
