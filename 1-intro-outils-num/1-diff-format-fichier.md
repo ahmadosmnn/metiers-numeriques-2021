@@ -34,7 +34,9 @@ Si on veut imprimer une affiche géante, on va plutôt utiliser une résolution 
 
 -**vectorielle**: une image vectorielle est une suite de segment formé par des points qui sont définis par des formules mathématique. N'ayez crainte, pas besoin de savoir faire des maths pour créer des images vectorielles. L'avantage est que chaque élément à sa place et que si on veut agrandir l'image cela aura pour effet de recalculer la position des segments et ainsi conservé la qualité de l'image original. Le vectoriel est ce qu'on utilise pour réaliser des logos qui seront imprimés sur des affiches de plusieurs mètres par exemple.
 
-![vecteur-vs-pixel](img/1/vecteur-vs-matricielle.png)
+![vecteur-vs-pixel](img/1/vectorisation-logo.jpeg)
+
+![vecteur-vs-pixel](img/1/vectorisation-zoom.jpeg)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 

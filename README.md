@@ -1,5 +1,3 @@
-:hammer_and_wrench: Work in progress :exclamation:
-
 # Initiation aux métiers numériques
 
 Alors comme ça on veut se lancer dans le numérique mais on sait pas encore trop si on veut faire du code ou du graphisme? Et bien pas de soucis, avec cette petite formation de 40 jours tu auras un aperçu de ces différents métiers et tu pourras t'orienter vers celui qui t'intéresse le plus.
@@ -36,9 +34,15 @@ Voici quelques points de règles à respecter pour que ta formation se passe le 
 
 ### Horaire
 
-Tu devras être présent **du lundi au vendredi** de **9h à 16h**. 
+Tu devras être présent **du lundi au vendredi** de **9h à 16h**.
 
 Toute absence devra être **justifiée**.
+
+### Les pauses
+
+Il y a une pause à **10h30** et **14h30**, de **15 minutes** chacune.
+
+Le temps de midi commence à **12h et dure une heure**. Il n'y a pas d'accès à la cuisine! Prenez vos couverts et vos plats. Un micro-onde est à votre disposition. Du café et des spéculoos seront disponibles au matin dès que possible.
 
 ### Les mercredis
 
@@ -56,16 +60,16 @@ Si tu as un problème, quel qu'il soit, n'hésite pas à venir en parler à un m
 
 Dans le but d'être toujours actif dans ton apprentissage, il est plus que conseillé de t'organiser une petite veille technologique. C'est à dire, de toi même continuer à te renseigner sur les sujets qui te passionne dans le code ou le graphisme.
 
-Va lire des articles de code, même si tu comprends pas la moitié c'est toujours utile car ça éveille ta curiosité et de toute façon tu retiendras forcément quelque chose qui pourrait s'avérer utile un jour. 
+Va lire des articles de code, même si tu comprends pas la moitié c'est toujours utile car ça éveille ta curiosité et de toute façon tu retiendras forcément quelque chose qui pourrait s'avérer utile un jour.
 
 N'hésite pas à jeter un oeil sur des collections d'images pour t'inspirer. Il y a pleins de sites qui référencent les créations de milliers de créateur. Même si ce n'est pas encore de ton niveau, ça vaut toujours la peine de regarder, de s'inspirer. Ce n'est pas parce que tu ne sais pas peindre comme Picaso que tu ne peux pas être inspiré par ses créations.
 
-### Quelques liens utiles pour ta veille techno.
+### Quelques liens utiles pour ta veille techno
 
 - [DeviantArt](http://www.deviantart.com) : Des milliers de créations graphique en tout genre
 - [Codepen](https://codepen.io/trending) : Des milliers de réalisations de code.
-- [Panda](https://usepanda.com/) : Une extension chrome pour garder un oeil sur des articles intéressants
-- [30 Seconds Knowledge](https://30secondsofknowledge.com/) : Une extension chrome qui ouvre une page avec une info que tu peux lire en 30 secondes sur un sujet lié au code
+- [Panda](https://usepanda.com/) : Une extension chrome pour garder un oeil sur des articles intéressants de plusieurs sites.
+- [30 Seconds Knowledge](https://30secondsofknowledge.com/) : Une extension chrome qui ouvre une page avec une info que tu peux lire en 30 secondes sur un sujet lié au code.
 
 ### Vos obligations
 
@@ -75,15 +79,29 @@ Il va falloir présenter des sujets de veilles à tout le monde. Ce petit exerci
 
 Pour les premières, c'est moi qui vais vous les donner pour que compreniez ce qu'il faut faire, mais par après, ça sera à vous de vous y coller.
 
+## Discord
+
+![disocrd](discord.png)
+
+Cette année on va utiliser Discord pour communiquer. C'est gratuit et simple.
+
 ## Activité brise glace
 
 ![fun](fun.png)
 
-Et maintenant place au fun! 
+Et maintenant place au fun!
 
-Commençons par faire un petit tour de table pour se présenter.
+### Présentation
 
+Commençons par une petite présentation. Tu  vas devoir réaliser celle-ci avec [Google Slides](https://www.google.com/slides/about/) puis venir te présenter devant toute la classe à l'aide de tes slides. 
 
+- Parle de toi. Dit nous qui tu es, ce que tu aimes et n'aime pas faire dans la vie, parles nous de tes passions, ce que tu veux faire plus tard. Bref, on veut TOUT savoir!
+- Ajoute quelques photos de toi si tu en as ou va chercher des illustrations ou gif rigolo (tu peux trouver cela sur [Unsplash](http://unsplash.com) ou sur [Giphy](http://giphy.com))
 
+### Charte de classe
 
-## Discord
+Prenons quelques minutes pour écrire sur des auto-collants quelques mots-clés par rapport à ce que tu considères comme important au bon déroulement des cours en classe. Par exemple, tu peux dire que tu as besoin de calme ou bien de pouvoir écouter de la musique.
+
+### Petit jeu
+
+Jouons un peu. On va faire un [Gartic Phone](https://garticphone.com/fr)

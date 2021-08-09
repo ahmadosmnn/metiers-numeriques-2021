@@ -33,7 +33,6 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
   - [Pot de peinture](#pot-de-peinture)
   - [Dégradé](#dégradé)
   - [Retouches](#retouches)
-  - [Pipette](#pipette-1)
 - [Ouvrir / Importer une image](#ouvrir--importer-une-image)
 - [Détourage](#détourage)
 - [Calques de réglages](#calques-de-réglages)
@@ -69,10 +68,9 @@ Intéressons-nous maintenant à l'interface. Elle est modulable selon vos désir
 ![ps-interface](img/3/ps-interface.png)
 
 1. **La barre des options:** C'est ici que vous pouvez retrouvez les options principales de l'outil en cours. Cette barre change donc dynamiquement en fonction de l'outil sélectionné. Sur la partie de droite vous pouvez aussi retrouvez des options rapides de connexion mais surtout la gestion de vos interfaces. Plus d'infos là dessus dans un instant
-2. **La fenêtre Document:** C'est ici que vous allez avoir la vue sur votre création. 
+2. **La fenêtre Document:** C'est ici que vous allez avoir la vue sur votre création.
 3. **Le panneau d'outils:** Le panneau le plus important, sauf pour ceux qui connaissent tous les les raccourcis, ce sont tous les outils disponibles dans Photoshop. Nous verrons certains d'entre-eux plus loin dans ce cours.
 4. **Les panneaux:** Alors ici c'est un peu particulier car au final ce sont les panneaux affichés par défaut, mais vous pouvez mettre ce que vous voulez comme panneaux. Parmi les panneaux intéressants on a par exemple celui des ```Calques```, des ```Couches```, des ```Couleurs```, des ```Réglages```, et encore tellement d'autres. Nous verrons l'utilité de certains un peu plus loin dans ce cours.
-
 
 ### La gestion des interfaces
 
@@ -111,8 +109,6 @@ in
 ### Dégradé
 
 ### Retouches
-
-### Pipette
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
