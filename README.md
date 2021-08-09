@@ -109,5 +109,3 @@ Prenons quelques minutes pour écrire sur des auto-collants quelques mots-clés 
 ### Petit jeu
 
 Jouons un peu. On va faire un [Gartic Phone](https://garticphone.com/fr)
-
-[rejoins cette partie](https://garticphone.com/fr/?c=063043842)
