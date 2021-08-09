@@ -85,6 +85,10 @@ Pour les premières, c'est moi qui vais vous les donner pour que compreniez ce q
 
 Cette année on va utiliser Discord pour communiquer. C'est gratuit et simple.
 
+> [Clique ici pour t'inscrire](https://discord.com/register)
+>
+> [Clique ici pour rejoindre le serveur de l'école](https://discord.gg/FWqhrSdT7U)
+
 ## Activité brise glace
 
 ![fun](fun.png)
