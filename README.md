@@ -6,9 +6,9 @@ Alors comme ça on veut se lancer dans le numérique mais on sait pas encore tro
 
 Ce cours se découpe en :five: séquences.
 
-0. [Les différents métiers du numérique](0-differents-metiers/README.md) (:clock12: 1/2 jour)
-1. [Introduction aux outils numérique](1-intro-outils-num/README.md) (:clock12: 9 1/2 jours)
-2. HTML / CSS - niveau débutant (:clock12: 15 jours)
+0. [Les différents métiers du numérique](0-differents-metiers/README.md) (:clock12: 1 heure)
+1. [HTML / CSS - niveau débutant](1-html-css-debutant/README.md) (:clock12: 15 jours)
+2. Introduction aux outils numérique (:clock12: 10 jours)
 3. JavaScript - niveau débutant (:clock12: 5 jours)
 4. HTML / CSS - niveau avancé :fire: (:clock12: 10 jours)
 
@@ -16,11 +16,12 @@ Ce cours se découpe en :five: séquences.
 
 ![presentation](presentation.png)
 
-On commencera en douceur avec un peu de théorie sur les métiers du numérique. Très vite nous passeront sur une approche de certains des outils utilisés par ces différents métiers. Évidement il en existe énormément, mais ici ce n'est qu'un premier contact pour t'aider à t'orienter dans ton parcours professionnel.
+On commencera en douceur avec un peu de théorie sur les métiers du numérique. 
+Nous commencerons par aborder le développement web avec l'HTML et le CSS. Nous verrons comment d'une page blanche on peut donner vie à une page web qui en jette.
 
-Après quelques réalisations pratiques, il sera déjà temps d'aborder le développement web avec l'HTML et le CSS. Nous verrons comment d'une page blanche on peut donner vie à une page web qui en jette.
+Très vite nous passeront sur une approche de certains des outils utilisés en tant que graphiste. Évidement il en existe énormément, mais ici ce n'est qu'un premier contact pour t'aider à t'orienter dans ton parcours professionnel.
 
-Nous ferrons ensuite une petite pause avec une introduction à la programmation algorithmique. Oui ça fait peur comme ça, mais c'est amusant, tu verras.
+Nous ferrons ensuite une petite pause avec une introduction à la programmation algorithmique avec JabaScript. Oui ça fait peur comme ça, mais c'est amusant, tu verras.
 
 Pour finir, nous approfondiront tes connaissances en HTML et CSS avec des concepts plus poussés comme l'utilisation de bibliothèque CSS, de méthodologie de nommage, du référencement mais aussi l'utilisation du terminal et de Git/GitHub.
 
@@ -81,7 +82,7 @@ Pour les premières, c'est moi qui vais vous les donner pour que compreniez ce q
 
 ## Discord
 
-![disocrd](discord.png)
+![discord](discord.png)
 
 Cette année on va utiliser Discord pour communiquer. C'est gratuit et simple.
 
