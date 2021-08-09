@@ -2,6 +2,11 @@
 
 Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on a déjà vu assez de théorie que pour commencer ton premier exercice en HTML!
 
+- Type de challenge: apprentissage
+- Durée: 2 jours :clock2:
+- Date de remise: vendredi 13 août 16h :bell:
+- Comment rendre: envoie moi ta page par Discord :email:
+
 ## Consignes
 
 - Ouvre VSCode
