@@ -3,20 +3,23 @@
 Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on a déjà vu assez de théorie que pour commencer ton premier exercice en HTML!
 
 - Type de challenge: apprentissage
-- Durée: 2 jours :clock2:
+- Durée: 1 jour :clock2:
 - Date de remise: vendredi 13 août 16h :bell:
 - Comment rendre: envoie moi ta page par Discord :email:
 
 ## Consignes
 
 - Ouvre VSCode
-- Réalise une page en HTML que tu nommeras `ma-recette.html`.
+- Réalise une page en HTML que tu nommeras `ma-recette.html`. Sauvegarde-là dans le dossier `Mes documents` de ton ordinateur. 
 - Parles d'une recette de cuisine qui te plaît et mets-là en page en utilisant la structure HTML de base et quelques balises vues dans la théorie.
 - Change le titre de la page pour qu'il indique bien qu'il s'agit de ta recette.
 - Utilise les balises `section` pour séparer ton contenu (résumé, ingrédients, étapes de préparation,...)
 - Utilise des balises `p`pour écrire quelques lignes sur pourquoi tu aimes cette recette.
 - Utilise une balise `img` pour placer une image de ta recette
 - Utilise une liste ordonnées pour les étapes de préparations et une liste non-ordonnées pour la liste des ingrédients.
+- Mets en valeur les éléments importants de ta recette avec les balises `strong`et `em`.
+- Ne te pré-occupe pas pour l'instant de la forme, on ne fait que mettre nos éléments à place, on embellira tout ça plus tard.
+- (bonus) insère un tableau avec des infos dedans.
 
 ## Compétences acquises au terme de l'exercice
 
@@ -28,7 +31,7 @@ Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on
 
 - Retournez lire la théorie vue plus tôt
 - Pourquoi ne pas essayer d'insérer une Google Font?
-- Si vraiment vous voulez aller plus loin, vous pouvez essayer une mise en page avec `Flexbox` ou en `Grid`
+- Si vraiment vous voulez aller plus loin, vous pouvez essayer une mise en page avec `Flexbox` ou en `Grid` mais pas de panique on verra ça ensemble par après.
 
 ## Courage!
 

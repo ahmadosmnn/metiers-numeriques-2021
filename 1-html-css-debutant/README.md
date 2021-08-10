@@ -8,5 +8,6 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 2. [Comprendre l'HTML et CSS](2-comprendre-html-css.md)
 3. [Théorie - HTML - les bases](3-theorie-html-bases.md)
 4. [Théorie - HTML - balises](4-theorie-html-balises.md)
-5. [Exercice - Recette](5-exercice-recette.md)
-6. :hammer_and_wrench: la suite arrive, minute petit papillon
+6. [Exercices intermédiaire](5-exercices-intermediaires.md)
+7. [Exercice - Recette](6-exercice-recette.md)
+8. :hammer_and_wrench: la suite arrive, minute petit papillon

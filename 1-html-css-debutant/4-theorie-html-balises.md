@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 # Quelques balises pour mettre en forme
 
 Maintenant qu'on en sait un peu plus sur comment est structuré une page web basique, voyons un peu comment mettre tous ça en page.
@@ -6,32 +7,32 @@ Il existe une multitude de balises à utiliser pour rédiger un document HTML, n
 
 > :bulb: Ouvrez VS code et expérimentez les balises qu'on va voir à partir d'ici. Pas besoin de grand chose, juste un fichier .html avec ces balises suffiront ou tu peux reprendre le squelette créer précédemment.
 
+<!-- omit in toc -->
 ## Table des matières
 
-- [Quelques balises pour mettre en forme](#quelques-balises-pour-mettre-en-forme)
-  - [Table des matières](#table-des-matières)
-  - [Un peu de sémantique](#un-peu-de-sémantique)
-    - [SEO](#seo)
-    - [Accessibilité](#accessibilité)
-  - [La balise `<div>`](#la-balise-div)
-  - [La balise `<p>`](#la-balise-p)
-  - [Les balises `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`](#les-balises-h1-h2-h3-h4-h5-h6)
-  - [La balise `<blockquote>`](#la-balise-blockquote)
-  - [La balise `<strong>`](#la-balise-strong)
-  - [La balise `<em>`](#la-balise-em)
-  - [La balise `<span>`](#la-balise-span)
-  - [La balise `<img>`](#la-balise-img)
-  - [La balise `<a>`](#la-balise-a)
-  - [Les liens interne et externe](#les-liens-interne-et-externe)
-  - [Les tableaux](#les-tableaux)
-    - [La balise `<table>`](#la-balise-table)
-    - [Les balises `<tr>`, `<td>`, `<th>`](#les-balises-tr-td-th)
-  - [Les listes](#les-listes)
-    - [Les listes non ordonnées `<ul>`](#les-listes-non-ordonnées-ul)
-    - [Les listes ordonnées `<ol>`](#les-listes-ordonnées-ol)
-    - [La balise `<li>`](#la-balise-li)
-  - [Encore quelques balises](#encore-quelques-balises)
-  - [Pour allez plus loin](#pour-allez-plus-loin)
+- [Un peu de sémantique](#un-peu-de-sémantique)
+  - [SEO](#seo)
+  - [Accessibilité](#accessibilité)
+- [La balise `<div>`](#la-balise-div)
+- [La balise `<p>`](#la-balise-p)
+- [Les balises `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`](#les-balises-h1-h2-h3-h4-h5-h6)
+- [La balise `<blockquote>`](#la-balise-blockquote)
+- [La balise `<strong>`](#la-balise-strong)
+- [La balise `<em>`](#la-balise-em)
+- [La balise `<span>`](#la-balise-span)
+- [La balise `<img>`](#la-balise-img)
+- [La balise `<a>`](#la-balise-a)
+  - [Les ancres](#les-ancres)
+- [Les liens interne et externe](#les-liens-interne-et-externe)
+- [Les tableaux](#les-tableaux)
+  - [La balise `<table>`](#la-balise-table)
+  - [Les balises `<tr>`, `<td>`, `<th>`](#les-balises-tr-td-th)
+- [Les listes](#les-listes)
+  - [Les listes non ordonnées `<ul>`](#les-listes-non-ordonnées-ul)
+  - [Les listes ordonnées `<ol>`](#les-listes-ordonnées-ol)
+  - [La balise `<li>`](#la-balise-li)
+- [Encore quelques balises](#encore-quelques-balises)
+- [Pour allez plus loin](#pour-allez-plus-loin)
 
 ## Un peu de sémantique
 
@@ -45,19 +46,19 @@ Exemple d'une balise sémantique: `<article>`, `<section>`
 
 Le but de ces balises est de donner au navigateur et au développeur une description du contenu qui suit. Par exemple il existe une balise `<header>`, ce qui permet d'indiquer à votre navigateur que tout le contenu qui s'y trouvera ferra partie du haut de votre page. C'est une alternative et une bonne pratique par rapport à `<div class="header">`
 
-Voici la liste de ces balises: 
+Voici la liste de ces balises:
 
-* `<article>`
-* `<aside>`
-* `<details>`
-* `<figcaption>`
-* `<figure>`
-* `<footer>`
-* `<header>`
-* `<main>`
-* `<mark>`
-* `<nav>`
-* `<section>`
+- `<article>`
+- `<aside>`
+- `<details>`
+- `<figcaption>`
+- `<figure>`
+- `<footer>`
+- `<header>`
+- `<main>`
+- `<mark>`
+- `<nav>`
+- `<section>`
 
 ![semantic](https://www.w3schools.com/html/img_sem_elements.gif)
 
@@ -175,8 +176,8 @@ Cette balise sert à insérer une image dans votre page. Elle peut se placer un 
 <img src="lien vers mon image" alt="description de l'image"/>
 ```
 
-* **src:** tout simplement un lien externe ou interne vers votre fichier image.
-* **alt:** une description que les utilisateurs verront si votre image met du temps à se charger, si elle n'est plus en ligne ou pour aider la synthèse vocale.
+- `src`: tout simplement un lien externe ou interne vers votre fichier image.
+- `alt`: une description que les utilisateurs verront si votre image met du temps à se charger, si elle n'est plus en ligne ou pour aider la synthèse vocale.
 
 Évidement une balise `<img>` peut prendre d'autres attributs, notamment des valeurs de taille, mais les deux vu ci dessus sont les plus courant.
 
@@ -195,11 +196,21 @@ Il est maintenant temps d'insérer un lien dans votre code. Pour ce faire on uti
 - `href:` c'est l'attribut qui prend comme valeur le lien vers lequel l'utilisateur sera redirigé en cliquant. Il peut être externe ou interne.
 - `title:` sert à préciser à l'utilisateur une information par rapport au lien lorsqu'il survole le lien avec sa souris.
 
+### Les ancres
+
+Il est possible d'amener le visiteur de votre site vers un point précis de votre page grâce aux ancres. Pour ce faire il suffit de donner un `ID` à une balise et de placer cet `ID` dans le `href` de votre lien.
+
+```html
+<a href="#contact">Contact</a>
+...
+<div id="contact">
+```
+
 [:arrow_up: Revenir au top](#table-des-matières)
 
 ## Les liens interne et externe
 
-Lorsque vous avez besoin de faire référence à un fichier il est possible d'utiliser deux méthode. Soit votre fichier se trouve déjà sur internet mais est extérieur à votre projet (lien vers un autre site, vers une ressource ou image,...), dans ce cas vous devez introduire le lien http de ce fichier directement dans votre attribut **src** ou **href**.
+Lorsque vous avez besoin de faire référence à un fichier il est possible d'utiliser deux méthode. Soit votre fichier se trouve déjà sur internet mais est extérieur à votre projet (lien vers un autre site, vers une ressource ou image,...), dans ce cas vous devez introduire l'url de ce fichier directement dans votre attribut `src` ou `href`.
 
 Si votre ressource fait partie de votre projet, alors vous pouvez y faire référence directement. Voyons un rapide exemple:
 
@@ -293,7 +304,7 @@ Il existe 2 types de listes, celle qui sont triées et celle qui ne le sont pas.
 
 ### Les listes non ordonnées `<ul>`
 
-**ul:** Unordered List
+`ul:` Unordered List
 
 ```html
 <ul>
@@ -305,7 +316,7 @@ Il existe 2 types de listes, celle qui sont triées et celle qui ne le sont pas.
 
 ### Les listes ordonnées `<ol>`
 
-**ol:** Ordered List
+`ol:` Ordered List
 
 ```html
 <ol>
@@ -351,6 +362,9 @@ Il existe encore pleins de balises, mais le but de ce premier cours n'est pas de
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-Phew! Ca en fait des nouvelles choses à assimiler. Tout va bien?? On va faire une petite pause avant d'attaquer la partie la plus amusante: LE CSS!!
+Phew! Ca en fait des nouvelles choses à assimiler. Tout va bien?? 
 
-[Passons à l'exercice de ces prochains jours](5-exercice-recette.md)
+Faisons [quelques exercices](5-exercices-intermediaires.md) pour voir si tout est bien compris.
+
+Ensuite on va faire une petite pause avant d'attaquer la partie la plus amusante: LE CSS!!
+
