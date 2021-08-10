@@ -17,6 +17,7 @@ Il existe une multitude de balises à utiliser pour rédiger un document HTML, n
 - [La balise `<p>`](#la-balise-p)
 - [Les balises `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`](#les-balises-h1-h2-h3-h4-h5-h6)
 - [La balise `<blockquote>`](#la-balise-blockquote)
+- [La balise `<details>`](#la-balise-details)
 - [La balise `<strong>`](#la-balise-strong)
 - [La balise `<em>`](#la-balise-em)
 - [La balise `<span>`](#la-balise-span)
@@ -92,10 +93,10 @@ La **div**ision est un conteneur. Cette balise permet de structurer sa page en "
 
 > :wrench: Vite fait, voyons ce que sont ces blocs:
 
-* Header: c'est la tête de votre page, dans ce bloc on va insérer le logo de notre site ainsi qu'un menu. Il se trouve en haut de la page.
-* Content: c'est le contenu de notre page, tous les textes et images que les visiteurs verront. En fonction de la masse de contenu à afficher, il peut être judicieux d'imbriquer d'autres blocs à l'intérieur de content pour une meilleur organisation ou pour styliser votre contenu autrement (exemple: "mes diplômes", "mon parcours", "mes skills",...)
-* Sidebar: n'est pas toujours présent, sert a insérer un menu sur le côté ou tout autre contenu qui doit apparaître à côté du content.
-* Footer: c'est le pied de page, c'est là qu'on marque les copyrights, qu'on insère un menu ou quelques informations supplémentaires.
+- `Header`: c'est la tête de votre page, dans ce bloc on va insérer le logo de notre site ainsi qu'un menu. Il se trouve en haut de la page.
+- `Content`: c'est le contenu de notre page, tous les textes et images que les visiteurs verront. En fonction de la masse de contenu à afficher, il peut être judicieux d'imbriquer d'autres blocs à l'intérieur de content pour une meilleur organisation ou pour styliser votre contenu autrement (exemple: "mes diplômes", "mon parcours", "mes skills",...)
+- `Sidebar`: n'est pas toujours présent, sert a insérer un menu sur le côté ou tout autre contenu qui doit apparaître à côté du content.
+- `Footer`: c'est le pied de page, c'est là qu'on marque les copyrights, qu'on insère un menu ou quelques informations supplémentaires.
 
 > Tout ceci n'est pas à respecter à la lettre. Vous pouvez casser les codes, mais attention, soyez sûr de ce que vous faites. :smile:
 
@@ -137,6 +138,21 @@ Cette balise sert à insérer une citation. Le bloc est suivi d'un retour à la 
 ```
 
 [:arrow_up: Revenir au top](#table-des-matières)
+
+## La balise `<details>`
+
+Permet d'ajouter des détails que l'utilisateur peut ouvrir ou fermer.
+
+```html
+<details>
+  <summary>Rammstein</summary>
+  <p>Rammstein [ˈʁamʃtaɪn][3] est un groupe de metal industriel allemand, originaire de Berlin. Formé en 1994, il se compose depuis le début de six membres originaires d'Allemagne de l'Est ; décrit comme appartenant au genre Neue Deutsche Härte, il en est le représentant le plus connu.</p>
+</details>
+```
+
+> :wrench: Voyons comment ça s'utilise
+
+C'est très simple, dans la balise `<details>` vous pouvez y placer ce que vous voulez (image, paragraphe,...), ensuite vous devez placer une balise `<summary>` qui sera le titre sur lequel votre visiteur cliquera pour ouvrir ou fermer les infos complémentaires.
 
 ## La balise `<strong>`
 
