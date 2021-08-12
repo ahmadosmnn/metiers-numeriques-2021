@@ -129,13 +129,15 @@ Ce sont les balises de titre. Il y en a 6 au total et pas plus. Chaque titre inc
 
 ## La balise `<blockquote>`
 
-Cette balise sert à insérer une citation. Le bloc est suivi d'un retour à la ligne
+Cette balise sert à insérer une citation. Le bloc est suivi d'un retour à la ligne et possède un style par défaut dans votre navigateur.
 
 ```html
-<blockquote>
+<blockquote cite="https://www.microsoft.com/">
   Célébrer le succès, c’est bien, mais il est plus important de tirer les leçons de l’échec. - Bill Gates
 </blockquote>
 ```
+
+- `cite`: permet d'ajouter une URL vers la source de la citation si il y en a une. Ça ne s'affichera pas mais ça sert aux moteurs de recherches.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
