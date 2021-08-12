@@ -15,6 +15,7 @@
 - [L'identifiant (id)](#lidentifiant-id)
 - [On mélange tout!](#on-mélange-tout)
 - [Espace](#espace)
+- [Le sélecteur de tout!](#le-sélecteur-de-tout)
 - [Convention de nommage](#convention-de-nommage)
 - [Pour finir](#pour-finir)
 
@@ -159,12 +160,28 @@ p .important { ... }
 
 Voyez comme un simple espace peut faire ou défaire votre page. Soyez attentif  et utilisez l'inspecteur de votre navigateur pour cibler plus facilement le problème.
 
+## Le sélecteur de tout!
+
+Pour sélectionner l'entièreté de notre page on peut utiliser `*`
+
+```css
+* {...}
+```
+
+:bulb: On peut combiner ce sélecteur avec d'autres pour sélectionner tous les éléments à l'intérieur d'un autre, par exemple: 
+
+```css
+p * {...}
+```
+
+> Sélectionnera tous les éléments à l'intérieur d'un `<p>`
+
 ## Convention de nommage
 
-* un nom de classe ou d'ID ne doit pas avoir d'accent ou caractères spéciaux.
-* On a tendance à éviter le "tout majuscule"
-* Un nom d'ID ne prend jamais d'espace
-* Un nom de classe ne prend jamais d'espace, sinon c'est une nouvelle classe
+- un nom de classe ou d'ID ne doit pas avoir d'accent ou caractères spéciaux.
+- On a tendance à éviter le "tout majuscule"
+- Un nom d'ID ne prend jamais d'espace
+- Un nom de classe ne prend jamais d'espace, sinon c'est une nouvelle classe
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
