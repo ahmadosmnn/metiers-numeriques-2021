@@ -14,3 +14,7 @@ Tu peux allez plus loin mais on a pas encore vu la théorie, ça arrive tracasse
 Maintenant que tu as vu quelques propriétés CSS, il est temps d'améliorer ta structure HTML de recette!
 
 Pas de consigne précise, mets quelques propriétés pour changer la couleur du texte de tes titres et paragraphes. Change la couleur de ton fond. Arrondis les coins de ton image. Bref, lâche toi !
+
+## W3 School
+
+Réalise [les exercices sur la W3 School](https://www.w3schools.com/css/exercise.asp) jusqu'au **CSS Font** inclus.
