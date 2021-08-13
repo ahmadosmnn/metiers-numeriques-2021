@@ -1,48 +1,48 @@
+<!-- omit in toc -->
 # Les propriétés CSS
 
 Alors, on va faire au plus court, car des propriétés il y en a beaucoup... vraiment beaucoup. On va en voir quelques-une très rapidement, il vous faudra fouiller la documentation CSS pour en trouver d'autre ou chercher des exemples sur [Codepen](http://www.codepen.io) (ou autre). N'hésitez pas non plus a faire des recherches Google pour trouver ce que vous souhaitez comme effet.
 
+<!-- omit in toc -->
 ## Table des matières
 
-- [Les propriétés CSS](#les-propriétés-css)
-  - [Table des matières](#table-des-matières)
-  - [Typographie](#typographie)
-    - [font-family](#font-family)
-    - [font-size](#font-size)
-    - [font-weight](#font-weight)
-    - [font-style](#font-style)
-    - [line-height](#line-height)
-    - [color](#color)
-    - [text-align](#text-align)
-    - [text-transform](#text-transform)
-    - [text-decoration](#text-decoration)
-  - [Bordure et arrière-plan](#bordure-et-arrière-plan)
-    - [border](#border)
-    - [border-radius](#border-radius)
-    - [background-color](#background-color)
-    - [background-image](#background-image)
-    - [background-repeat](#background-repeat)
-    - [background-position](#background-position)
-    - [background-attachement](#background-attachement)
-    - [En une ligne](#en-une-ligne)
-  - [Dimensions, margin et padding](#dimensions-margin-et-padding)
-    - [Inline et block](#inline-et-block)
-    - [width & height (max & min)](#width--height-max--min)
-    - [margin & padding](#margin--padding)
-  - [Positionnements](#positionnements)
-    - [float](#float)
-    - [clear](#clear)
-  - [Display](#display)
-    - [display: block](#display-block)
-    - [display: inline](#display-inline)
-    - [display: none](#display-none)
-  - [position](#position)
-    - [position: static](#position-static)
-    - [position: relative](#position-relative)
-    - [position: fixed](#position-fixed)
-    - [position: absolute](#position-absolute)
-  - [Flexbox](#flexbox)
-  - [L'auto-complete de VSCode](#lauto-complete-de-vscode)
+- [Typographie](#typographie)
+  - [font-family](#font-family)
+  - [font-size](#font-size)
+  - [font-weight](#font-weight)
+  - [font-style](#font-style)
+  - [line-height](#line-height)
+  - [color](#color)
+  - [text-align](#text-align)
+  - [text-transform](#text-transform)
+  - [text-decoration](#text-decoration)
+- [Bordure et arrière-plan](#bordure-et-arrière-plan)
+  - [border](#border)
+  - [border-radius](#border-radius)
+  - [background-color](#background-color)
+  - [background-image](#background-image)
+  - [background-repeat](#background-repeat)
+  - [background-position](#background-position)
+  - [background-attachement](#background-attachement)
+  - [En une ligne](#en-une-ligne)
+- [Dimensions, margin et padding](#dimensions-margin-et-padding)
+  - [Inline et block](#inline-et-block)
+  - [width & height (max & min)](#width--height-max--min)
+  - [margin & padding](#margin--padding)
+- [Positionnements](#positionnements)
+  - [float](#float)
+  - [clear](#clear)
+- [Display](#display)
+  - [display: block](#display-block)
+  - [display: inline](#display-inline)
+  - [display: none](#display-none)
+- [position](#position)
+  - [position: static](#position-static)
+  - [position: relative](#position-relative)
+  - [position: fixed](#position-fixed)
+  - [position: absolute](#position-absolute)
+- [Flexbox](#flexbox)
+- [L'auto-complete de VSCode](#lauto-complete-de-vscode)
 
 ## Typographie
 
@@ -498,5 +498,7 @@ Le meilleur moyen pour comprendre flexbox c'est de l'expérimenté par vous mêm
 ## L'auto-complete de VSCode
 
 Si vous ne savez pas exactement quelle propriété existe ou comment elle s'écrit, VSCode est là pour vous aider. En effet quand vous travaillez dans un document CSS ou HTML enregistré, VSCode détecte votre syntaxe et vous aide à compléter votre frappe.
+
+Passons à quelques [exercices intermédiaires](10-exercices-intermediaires-css.md) pour assimiler tout ça.
 
 [:arrow_up: Revenir au top](#table-des-matières)

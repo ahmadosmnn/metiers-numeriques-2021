@@ -51,6 +51,9 @@ Voici les deux ressources qui vous serons indispensables à la réalisation de v
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
+[< Cours précédent](01-comprendre-web.md) | [Cours suivant >](03-theorie-html-bases.md)
+
+
 > Cours original: Julie Vanderbyse
 >
 > Modification: Jeremy Scala

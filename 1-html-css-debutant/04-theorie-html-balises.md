@@ -380,9 +380,8 @@ Il existe encore pleins de balises, mais le but de ce premier cours n'est pas de
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-Phew! Ca en fait des nouvelles choses à assimiler. Tout va bien?? 
+Phew! Ca en fait des nouvelles choses à assimiler. Tout va bien??
 
 Faisons [quelques exercices](5-exercices-intermediaires.md) pour voir si tout est bien compris.
 
 Ensuite on va faire une petite pause avant d'attaquer la partie la plus amusante: LE CSS!!
-

@@ -104,4 +104,4 @@ h1{
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-Passons maintenant aux [sélecteurs CSS](8-theorie-css-selecteurs.md)
+[< Cours précédent](04-theorie-html-balises.md) | [Cours suivant >](08-theorie-css-selecteurs.md)

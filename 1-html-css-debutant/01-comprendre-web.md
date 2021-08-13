@@ -193,6 +193,8 @@ Bon travail à tous!
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
+[Cours suivant >](02-comprendre-html-css.md)
+
 > Cours original: Julie Vanderbyse
 >
 > Modification: Jeremy Scala
