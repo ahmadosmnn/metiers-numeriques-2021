@@ -501,4 +501,6 @@ Si vous ne savez pas exactement quelle propriété existe ou comment elle s'écr
 
 Passons à quelques [exercices intermédiaires](10-exercices-intermediaires-css.md) pour assimiler tout ça.
 
+[< Cours précédent](08-theorie-css-selecteurs.md)| [Cours suivant >](12-theorie-css-pseudo-selecteurs.md)
+
 [:arrow_up: Revenir au top](#table-des-matières)
