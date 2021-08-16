@@ -16,9 +16,10 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 10. [Exercices intermédiaires CSS](10-exercices-intermediaires-css.md)
 11. [Exercice - Style à reproduire](11-exercice-css.md)
 12. [Théorie - Pseudo-sélecteur](12-theorie-css-pseudo-selecteurs.md)
-13. [Théorie - Flexbox](13-theorie-flexbox.md)
-14. [Exercices - Flexbox](14-exercices-flexbox.md)
-15. :hammer_and_wrench: la suite arrive, minute petit papillon
+13. [Exercices intermédiaires - CSS - Pseudo-sélecteurs](13-exercices-css-pseudo-selecteurs.md)
+14. [Théorie - Flexbox](14-theorie-flexbox.md)
+15. [Exercices - Flexbox](15-exercices-flexbox.md)
+16. :hammer_and_wrench: la suite arrive, minute petit papillon
 
 ## Bonus
 
