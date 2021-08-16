@@ -95,7 +95,7 @@ Permet d'aligner horizontalement les éléments à l'intérieur du container
 }
 ```
 
-![justify-content](img/12/justify-content.svg)
+![justify-content](img/14/justify-content.svg)
 
 #### Align-items
 
@@ -108,7 +108,7 @@ Permet d'aligner verticalement les éléments à l'intérieur du container
 }
 ```
 
-![align-items](img/12/align-items.svg)
+![align-items](img/14/align-items.svg)
 
 #### Align-content
 
@@ -121,7 +121,7 @@ Permet d'aligner les éléments à l'intérieur du container quand il y a plus d
 }
 ```
 
-![align-content](img/12/align-content.svg)
+![align-content](img/14/align-content.svg)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
