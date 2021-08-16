@@ -28,6 +28,8 @@ Les pseudo-class permet de définir l'état d'un élement. Par exemple:
 - Le style d'un lient visité et non-visité
 - Le style d'un élément quand il est "focus"
 
+Il se note à la suite d'un sélecteur avec `:pseudo-class`
+
 ### Les liens
 
 ```css
@@ -199,6 +201,8 @@ Voici [un lien vers la MDN et toutes les pseudo-class](https://developer.mozilla
 ## Pseudo-Element
 
 Les pseudo-element sont des mots-clés que l'on rajoute à la fin d'un sélecteur pour sélectionner une partie précise de l'élement.
+
+Il se note à la suite d'un sélecteur avec `::pseudo-element`
 
 ### After & Before
 
