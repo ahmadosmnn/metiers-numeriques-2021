@@ -14,8 +14,10 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 8. [Théorie - CSS - les sélecteurs](08-theorie-css-selecteurs.md)
 9. [Théorie - CSS - les propriétés](09-theorie-css-prorietes.md)
 10. [Exercices intermédiaires CSS](10-exercices-intermediaires-css.md)
-11. [Exercice - CV]
-12. :hammer_and_wrench: la suite arrive, minute petit papillon
+11. [Exercice - Style à reproduire](11-exercice-css.md)
+12. [Théorie - Flexbox](12-theorie-flexbox.md)
+13. [Exercices - Flexbox](13-exercices-flexbox.md)
+14. :hammer_and_wrench: la suite arrive, minute petit papillon
 
 ## Bonus
 

@@ -17,4 +17,4 @@ Pas de consigne précise, mets quelques propriétés pour changer la couleur du 
 
 ## W3 School
 
-Réalise [les exercices sur la W3 School](https://www.w3schools.com/css/exercise.asp) jusqu'au **CSS Font** inclus.
+Réalise [les exercices sur la W3 School](https://www.w3schools.com/css/exercise.asp) jusqu'au chapitre sur les **CSS Font**.
