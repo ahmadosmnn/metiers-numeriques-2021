@@ -8,7 +8,7 @@ Il est temps de mettre en pratique tout ce qu'on a vu jusqu'à maintenant. Tu va
 2. Crée une nouvelle feuille de style et lie-là à ton fichier HTML.
 3. Affiche la page dans ton navigateur pour voir le résultat. Tous les éléments sont là mais rien n'est mis en place.
 4. Regarde le screenshot plus bas et tente de reproduire le même style.
-5. Je te fournis plus bas le code HTML, les couleurs et le code CSS avec seulement les sélecteurs.
+5. Je te fournis plus bas le code HTML, les couleurs utilisées, quelques indications de taille et le code CSS avec seulement les sélecteurs.
 6. Il n'y a pas une bone méthode, si tu veux utiliser tes propres sélecteurs, tu peux!
 7. Tu as vus toute la théorie nécessaire à réaliser cet exercices.
 8. Souviens-toi, utilise l'inspecteur d'élément pour tester des valeurs directement dans ton navigateur.
@@ -19,6 +19,8 @@ Il est temps de mettre en pratique tout ce qu'on a vu jusqu'à maintenant. Tu va
 ## Screenshot
 
 ![exo-css](./img/11/ex-css.png)
+
+![exo-css](./img/11/ex-css-2.png)
 
 ## HTML
 
@@ -68,6 +70,12 @@ Il est temps de mettre en pratique tout ce qu'on a vu jusqu'à maintenant. Tu va
 - background section: #fffffe
 - titre: #ff8906
 - background footer: #e53170
+
+## Tailles
+
+- le logo fait 100px de large
+- la largeur des sections est de 790px max
+- pour ce qui est des marges et padding, utilise les valeurs que tu veux tant que ça ressemble un minimum à ce qu'il y a sur les screenshots
 
 ## CSS
 
