@@ -8,4 +8,4 @@ Essayez de compléter un max d'exercice sur ce petit jeu, ça vous aidera a enco
 
 ## Quelques exercices plus pratique
 
-Récupérer le dossier `exercices-flexbox`
+*prochainement...*
