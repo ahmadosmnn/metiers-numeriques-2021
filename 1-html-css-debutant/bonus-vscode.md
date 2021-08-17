@@ -12,7 +12,7 @@ Voyons quelques astuces qui peuvent t'aider à utiliser ce logiciel au mieux
   - [Structure HTML](#structure-html)
   - [Lorem Ipsum](#lorem-ipsum)
   - [Les listes](#les-listes)
-  - [Contenu, Class et ID, multiplicateur](#contenu-class-et-id-multiplicateur)
+  - [Contenu, Class et ID, multiplicateur, Attribut](#contenu-class-et-id-multiplicateur-attribut)
   - [Cheatsheet](#cheatsheet)
 - [Extensions](#extensions)
   - [Live Server](#live-server)
@@ -22,7 +22,10 @@ Voyons quelques astuces qui peuvent t'aider à utiliser ce logiciel au mieux
   - [Les flèches](#les-flèches)
   - [`Alt` + flèches](#alt--flèches)
   - [`Alt` + `Shift` + flèches](#alt--shift--flèches)
-  - [CTRL + Shift + P](#ctrl--shift--p)
+  - [`Ctrl` + `Shift` + P](#ctrl--shift--p)
+  - [`Alt` + curseur](#alt--curseur)
+  - [`Alt` + `suppr`](#alt--suppr)
+  - [`Ctrl` + `suppr`](#ctrl--suppr)
 
 ## Emmet
 
@@ -52,9 +55,11 @@ Mais ça va plus loin que ça, il y a moyen de directement écrire le nombre de 
 
 Et on peut encore pousser le vice plus loin en demandant directement de nous créer une liste et son contenu: `ul>li{lien$}*5`. Ce qui est entre accolades ici c'est le contenu de ma balise `<li>`
 
-### Contenu, Class et ID, multiplicateur
+### Contenu, Class et ID, multiplicateur, Attribut
 
 Comme vu plus haut il y a donc moyen de préciser à Emmet le contenu de notre balise en utiliser les `{}`. Il est également possible de lui demander de compter pour nous le nombre d'élément qu'il crée en utilisant `$`, cela va ajouter un chiffre pour chaque fois qu'il doit répéter l'opération avec `*x`
+
+C'est possible de donner la valeur d'un attribut également en utilisant `[]`. Il suffit d'écrire le nom de l'attribut de notre balise comme dans cet exemple: `a[href="#"]`
 
 Il est également possible de préciser la classe ou l'id de notre élément directement: `div.ma-classe` ou `div#monID`
 
@@ -106,8 +111,20 @@ L'utilisation de `alt` est super importante quand vous coder dans VSCode. Le fai
 
 Ce raccourci permet de dupliquer la ligne sur laquelle se trouve votre curseur actuellement ou la sélection.
 
-### CTRL + Shift + P
+### `Ctrl` + `Shift` + P
 
 Ce raccourci permet de faire apparaître la palette de VSCode. Dedans vous pouvez y retrouver différents raccourcis comme celui des préférences ou de vos extensions. Cela est possible tant que `>`se situe devant votre recherche, mais si vous l'effacez vous pouvez aussi rechercher des fichiers!
+
+### `Alt` + curseur
+
+Ce raccourci permet de placer de multiple curseur dans votre document.
+
+### `Alt` + `suppr`
+
+Ce raccourci permet de supprimer mot par mot.
+
+### `Ctrl` + `suppr`
+
+Ce raccourci permet de supprimer toute la ligne où est votre curseur.
 
 [:arrow_up: Revenir au top](#table-des-matières)
