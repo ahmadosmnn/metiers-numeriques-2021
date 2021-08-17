@@ -25,5 +25,5 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 
 ### Prochainement... sur vos écrans
 
-- :hammer_and_wrench: Les gestes qui sauve du temps sur VSCode
+- [Les gestes qui sauve du temps sur VSCode](bonus-vscode.md)
 - :hammer_and_wrench: La boîte à outils de l'intégrateur junior! 
