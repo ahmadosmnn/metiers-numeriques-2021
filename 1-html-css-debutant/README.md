@@ -17,13 +17,12 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 11. [Exercice - Style à reproduire](11-exercice-css.md)
 12. [Théorie - Pseudo-sélecteur](12-theorie-css-pseudo-selecteurs.md)
 13. [Exercices intermédiaires - CSS - Pseudo-sélecteurs](13-exercices-css-pseudo-selecteurs.md)
-14. [Théorie - Flexbox](14-theorie-flexbox.md)
-15. [Exercices - Flexbox](15-exercices-flexbox.md)
-16. :hammer_and_wrench: la suite arrive, minute petit papillon
+14. [Exercices - CSS - Maquette](14-exercices-css-maquettes.md)
+15. [Théorie - Flexbox](15-theorie-flexbox.md)
+16. [Exercices - Flexbox](16-exercices-flexbox.md)
+17. :hammer_and_wrench: *minute petit papillon, la suite arrive bientôt*
 
 ## Bonus
-
-### Prochainement... sur vos écrans
 
 - [Les gestes qui sauve du temps sur VSCode](bonus-vscode.md)
 - :hammer_and_wrench: La boîte à outils de l'intégrateur junior! 
