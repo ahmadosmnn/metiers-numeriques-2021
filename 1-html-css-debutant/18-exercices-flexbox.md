@@ -8,4 +8,6 @@ Essayez de compléter un max d'exercice sur ce petit jeu, ça vous aidera a enco
 
 ## Quelques exercices plus pratique
 
-*prochainement...*
+:hammer_and_wrench: *minute petit papillon, le contenu arrive bientôt*
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

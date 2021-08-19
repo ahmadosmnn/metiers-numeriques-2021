@@ -1,6 +1,6 @@
 # HTML - CSS - niveau débutant
 
-Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pour 15 jours! N'ai pas peur, on va y aller en douceur.
+Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pour 15 jours! On va apprendre les bases de l'HTML et du CSS pour réaliser tes premières pages web !
 
 ## Table des matières
 
@@ -18,9 +18,18 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 12. [Théorie - Pseudo-sélecteur](12-theorie-css-pseudo-selecteurs.md)
 13. [Exercices intermédiaires - CSS - Pseudo-sélecteurs](13-exercices-css-pseudo-selecteurs.md)
 14. [Exercices - CSS - Maquette](14-exercices-css-maquettes.md)
-15. [Théorie - Flexbox](15-theorie-flexbox.md)
-16. [Exercices - Flexbox](16-exercices-flexbox.md)
-17. :hammer_and_wrench: *minute petit papillon, la suite arrive bientôt*
+15. [Théorie - HTML - Formulaire](15-theorie-html-form.md)
+16. [Exercice - HTML - Formulaire](16-exercice-html-form.md)
+17. [Théorie - Flexbox](17-theorie-flexbox.md)
+18. [Exercices - Flexbox](18-exercices-flexbox.md)
+19. [Théorie - CSS - Unités de mesures](19-theorie-css-mesures.md)
+20. [Exercice - Maquette Flexbox - Feel The Music](20-exercice-maquette-feelthemusic.md)
+
+## La règle d'OR
+
+Consulte la documentation, la théorie, tes collègues ou ton super formateur trop gentil si tu as la moindre de question! Tu es là pour apprendre, si quelque chose t'échappe, tu risquerais de prendre du retard et de ne plus rien comprendre. ALORS SURTOUT T'HÉSITE PAS!!! OK???
+
+![google-that-shit](https://i.giphy.com/media/mWz4CusF1T1oez1lxR/giphy.webp)
 
 ## Bonus
 

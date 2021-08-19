@@ -210,3 +210,6 @@ Permet de déterminer l'alignement d'un élément dans le container. Cette propr
 [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [:arrow_up: Revenir au top](#table-des-matières)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
+

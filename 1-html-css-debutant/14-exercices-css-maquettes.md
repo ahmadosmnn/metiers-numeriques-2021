@@ -6,6 +6,4 @@ Suis [ce lien](https://www.alsacreations.com/tuto/lire/555-design-css-complet-5-
 
 Tu dois commencer par le fichier `etape1.html`. Ensuite tu dois suivre les étapes décrites sur le site. Si tu sens que tu es capable de reproduire [le résultat final](https://www.alsacreations.com/xmedia/tuto/exemples/design_css/etape5.html) sans les étapes, n'hésite pas à essayer!
 
-## Feel the music
-
-*prochainement...*
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
