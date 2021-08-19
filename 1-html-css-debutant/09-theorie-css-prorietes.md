@@ -29,19 +29,19 @@ Alors, on va faire au plus court, car des propriétés il y en a beaucoup... vra
   - [Inline et block](#inline-et-block)
   - [width & height (max & min)](#width--height-max--min)
   - [margin & padding](#margin--padding)
-- [Positionnements](#positionnements)
-  - [float](#float)
-  - [clear](#clear)
 - [Display](#display)
   - [display: block](#display-block)
   - [display: inline](#display-inline)
   - [display: none](#display-none)
-- [position](#position)
-  - [position: static](#position-static)
-  - [position: relative](#position-relative)
-  - [position: fixed](#position-fixed)
-  - [position: absolute](#position-absolute)
-- [Flexbox](#flexbox)
+- [Positionnement](#positionnement)
+  - [float](#float)
+  - [clear](#clear)
+  - [Z-index](#z-index)
+- [`Position`](#position)
+  - [`position: static`](#position-static)
+  - [`position: fixed`](#position-fixed)
+  - [`position: relative`](#position-relative)
+  - [`position: absolute`](#position-absolute)
 - [L'auto-complete de VSCode](#lauto-complete-de-vscode)
 
 ## Typographie
@@ -355,36 +355,6 @@ Ce qu'il faut retenir:
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-## Positionnements
-
-### float
-
-```css
-.img{
-  float:left;
-}
-```
-
-Permet de placer un contenu en dehors du "flux" de la page et le reste des blocks "coule" autour. Prends **left**, **right** ou **none** comme valeur.
-
-![float](img/09/float.png)
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
-### clear
-
-```css
-.texte{
-  clear: both;
-}
-```
-
-Permet d'empêcher le contournement des blocs flottants. Prends **left**, **right** ou **both** comme valeur.
-
-![un exemple de float et clear](img/09/float&clear.png)
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
 ## Display
 
 Cette propriété va permettre une mise en forme avancée. Voici quelques valeurs possibles: **block**, **inline**, **inline-block**, **none**,... Certaines de ces valeurs sont appliquées par défaut en fonction des éléments (par exemple un `<p>` ou un `<div>` prend par défaut un **display:block**)
@@ -427,30 +397,59 @@ Permet de retirer un élement de la page. Il ne sera plus visible et ne prendra 
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-## position
+## Positionnement
+
+### float
+
+```css
+.img{
+  float:left;
+}
+```
+
+Permet de placer un contenu en dehors du "flux" de la page et le reste des blocks "coule" autour. Prends **left**, **right** ou **none** comme valeur.
+
+![float](img/09/float.png)
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+### clear
+
+```css
+.texte{
+  clear: both;
+}
+```
+
+Permet d'empêcher le contournement des blocs flottants. Prends **left**, **right** ou **both** comme valeur.
+
+![un exemple de float et clear](img/09/float&clear.png)
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+### Z-index
+
+Permet de définir la position en "profondeur" d'un élément. La valeur par défaut étant `0`, si on met une valeur positive l'élément sera par dessus tous ceux qui sont à 0 et si on met une valeur négative l'élément sera en dessous de ceux qui sont à 0.
+
+```css
+img{
+  z-index:1;
+}
+```
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+## `Position`
 
 Cette propriété permet de positionner les éléments dans la page. Prends comme valeurs: **static**, **relative**, **absolute** ou **fixed**
 
-### position: static
+### `position: static`
 
 Valeur par défaut de tous les éléments. Un élément avec position static n'est positionné d'aucune manière spéciale.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### position: relative
-
-```css
-.content a {
-  position: relative;
-  top: -15px
-}
-```
-
-Un élément se comporte de la même manière que avec static. On peut se servir des propriétés **top**, **left**, **right**, **bottom** pour déplacer l'élement. Le reste du contenu ne sera pas affecté.
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
-### position: fixed
+### `position: fixed`
 
 ```css
 .nav {
@@ -465,7 +464,20 @@ Un élément positionné avec **fixed** ne bougera pas. Il sortira du flux de la
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### position: absolute
+### `position: relative`
+
+```css
+.content a {
+  position: relative;
+  top: -15px
+}
+```
+
+Un élément se comporte de la même manière que avec static. On peut se servir des propriétés **top**, **left**, **right**, **bottom** pour déplacer l'élement. Le reste du contenu ne sera pas affecté.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+### `position: absolute`
 
 Un élément en position absolute sort du flux et se positionne par rapport à son dernier ancêtre positionné. Si aucun ancêtre n'est positionné, il se positionnera par rapport à \<html>. On doit positionner le parent avec une position relative, fixed ou absolute.
 
@@ -478,20 +490,6 @@ h2 {
 ```
 
 Pour mieux comprendre les positions, voici un lien vers [la documentation de cette balise sur W3School](https://www.w3schools.com/css/css_positioning.asp). Il y a pleins d'exemples.
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
-## Flexbox
-
-On vient de voir pas mal de propriété. Vous devriez être capable de réaliser l'exercice de la semaine, mais il me reste à vous parler de Flexbox.
-
-Flexbox est un outil qui permet une certaine flexibilité dans la mise en page de vos éléments. Le principe est simple, on place nos éléments dans un conteneur (une \<div>) et on gère le comportement de nos éléments au sein de ce conteneur via les propriétés de flexbox.
-
-Le meilleur moyen pour comprendre flexbox c'est de l'expérimenté par vous même. Je vous recommande la lecteur des deux sites suivants:
-
->[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-> 
->[Openclassroom](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/3298561-faites-votre-mise-en-page-avec-flexbox)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
