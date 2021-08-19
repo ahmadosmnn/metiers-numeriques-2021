@@ -94,3 +94,5 @@ Réalisez les exercices sur [cette page](https://www.w3schools.com/css/exercise.
 ## Exercice 4
 
 Réalisez les exercices sur [cette page](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements1)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

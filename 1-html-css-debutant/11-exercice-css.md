@@ -123,3 +123,5 @@ footer{
   /* insère ton style ici */
 }
 ```
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

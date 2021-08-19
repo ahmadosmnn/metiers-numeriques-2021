@@ -128,3 +128,5 @@ Ce raccourci permet de supprimer mot par mot.
 Ce raccourci permet de supprimer toute la ligne où est votre curseur.
 
 [:arrow_up: Revenir au top](#table-des-matières)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

@@ -104,4 +104,4 @@ h1{
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-[< Cours précédent](04-theorie-html-balises.md) | [Cours suivant >](08-theorie-css-selecteurs.md)
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

@@ -193,6 +193,6 @@ Pas si compliqué, n'est-ce pas??
 
 Il reste un ""tout petit"" sujet à abordé pour que tu sois fin prêt à te lancer dans le vase monde du CSS: [les propriétés](9-theorie-css-prorietes.md)
 
-[< Cours précédent](07-theorie-css-bases.md)| [Cours suivant >](09-theorie-css-prorietes.md)
-
 [:arrow_up: Revenir au top](#table-des-matières)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

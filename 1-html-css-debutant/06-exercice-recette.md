@@ -36,3 +36,5 @@ Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on
 ## Courage!
 
 Cet exercice peut te sembler impossible si tu n'as aucune base d'HTML, mais ne t'en faites pas, le but ici c'est d'essayer d'allez le plus loin possible et d'apprendre à chercher par soi même. Nous approfondirons tes connaissances avec la suite de la matière et lors d'autres exercices.
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

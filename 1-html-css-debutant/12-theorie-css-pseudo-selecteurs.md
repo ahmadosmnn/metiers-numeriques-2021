@@ -249,4 +249,4 @@ Permet de styliser la sélection d'un élément par l'utilisateur.
 
 Il existe encore quelques autres pseudo-element, mais rien de bien utile dans le cadre de ce cours, voici tout de même [un lien vers la doc.](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-[< Cours précédent](09-theorie-css-prorietes.md) | [Cours suivant >](15-theorie-flexbox.md)
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

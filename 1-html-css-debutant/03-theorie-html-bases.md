@@ -150,6 +150,6 @@ Faisons une toute petite pause théorique.
 
 :bulb: Tu ne dois pas retenir ce squelette par coeur. Tu peux utiliser Emmet pour mettre en page rapidement ta structure de base HTML. Pour ce faire, enregistre ton document en `.html`. Ensuite dedans, tu peux tout simplement écrire `!` et valider avec la touche `Enter`. VSCode comprendra que tu utilises une abréviation d'Emmet et te mettra en place ta structure. Nous verrons Emmet un peu plus loin...
 
-[< Cours précédent](02-comprendre-html-css.md) | [Cours suivant >](04-theorie-html-balises.md)
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
 
 [:arrow_up: Revenir au top](#table-des-matières)

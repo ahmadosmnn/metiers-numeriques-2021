@@ -382,6 +382,4 @@ Il existe encore pleins de balises, mais le but de ce premier cours n'est pas de
 
 Phew! Ca en fait des nouvelles choses à assimiler. Tout va bien??
 
-Faisons [quelques exercices](5-exercices-intermediaires.md) pour voir si tout est bien compris.
-
-Ensuite on va faire une petite pause avant d'attaquer la partie la plus amusante: LE CSS!!
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

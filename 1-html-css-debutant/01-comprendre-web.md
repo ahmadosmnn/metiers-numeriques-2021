@@ -193,7 +193,7 @@ Bon travail à tous!
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-[Retour au sommaire](./README.md#table-des-matières)
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
 
 > Cours original: Julie Vanderbyse
 >
