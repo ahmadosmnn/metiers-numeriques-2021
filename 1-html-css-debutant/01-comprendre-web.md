@@ -193,7 +193,7 @@ Bon travail à tous!
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-[Cours suivant >](02-comprendre-html-css.md)
+[Retour au sommaire](Readme.md#table-des-matières)
 
 > Cours original: Julie Vanderbyse
 >
