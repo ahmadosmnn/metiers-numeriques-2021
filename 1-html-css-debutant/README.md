@@ -29,7 +29,7 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 
 ## La règle d'OR
 
-Consulte la documentation, la théorie, tes collègues ou ton super formateur trop gentil si tu as la moindre question! Tu es là pour apprendre, si quelque chose t'échappe, tu risquerais de prendre du retard et de ne plus rien comprendre. ALORS SURTOUT T'HÉSITE PAS!!! OK???
+Consulte la documentation, Google, la théorie, tes collègues ou ton super formateur trop gentil si tu as la moindre question! Tu es là pour apprendre, si quelque chose t'échappe, tu risquerais de prendre du retard et de ne plus rien comprendre. ALORS SURTOUT T'HÉSITE PAS!!! OK???
 
 ![google-that-shit](https://i.giphy.com/media/mWz4CusF1T1oez1lxR/giphy.webp)
 
