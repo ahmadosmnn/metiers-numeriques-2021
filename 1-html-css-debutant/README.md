@@ -20,9 +20,9 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 14. [Exercices - CSS - Maquette](14-exercices-css-maquettes.md)
 15. [Théorie - HTML - Formulaire](15-theorie-html-form.md)
 16. [Exercice - HTML - Formulaire](16-exercice-html-form.md)
-17. [Théorie - Flexbox](17-theorie-flexbox.md)
-18. [Exercices - Flexbox](18-exercices-flexbox.md)
-19. [Théorie - CSS - Unités de mesures](19-theorie-css-mesures.md)
+17. [Théorie - CSS - Unités de mesures](17-theorie-css-mesures.md)
+18. [Théorie - Flexbox](17-theorie-flexbox.md)
+19. [Exercices - Flexbox](18-exercices-flexbox.md)
 20. [Exercice - Maquette Flexbox - Feel The Music](20-exercice-maquette-feelthemusic.md)
 
 ## La règle d'OR

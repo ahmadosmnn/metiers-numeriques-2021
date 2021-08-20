@@ -1,4 +1,4 @@
-# Exercices CSS maquettes
+# Exercices CSS maquette Apple
 
 ## Hey Apple
 
