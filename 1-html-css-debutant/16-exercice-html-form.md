@@ -113,6 +113,4 @@ form{
 
 C'est déjà terminé pour les formulaires, tu as vu que c'était un vrai jeu d'enfant que de sélectionner nos éléments et de les styliser, non? :) 
 
-[:arrow_up: Revenir au top](#table-des-matières)
-
 [:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

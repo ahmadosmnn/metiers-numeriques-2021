@@ -21,9 +21,11 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 15. [Théorie - HTML - Formulaire](15-theorie-html-form.md)
 16. [Exercice - HTML - Formulaire](16-exercice-html-form.md)
 17. [Théorie - CSS - Unités de mesures](17-theorie-css-mesures.md)
-18. [Théorie - Flexbox](17-theorie-flexbox.md)
-19. [Exercices - Flexbox](18-exercices-flexbox.md)
+18. [Théorie - Flexbox](18-theorie-flexbox.md)
+19. [Exercices - Flexbox](19-exercices-flexbox.md)
 20. [Exercice - Maquette Flexbox - Feel The Music](20-exercice-maquette-feelthemusic.md)
+21. :hammer_and_wrench: Théorie - CSS - Animations
+22. :hammer_and_wrench: Exercices - CSS - Animations
 
 ## La règle d'OR
 
@@ -34,4 +36,5 @@ Consulte la documentation, la théorie, tes collègues ou ton super formateur tr
 ## Bonus
 
 - [Les gestes qui sauvent du temps sur VSCode](bonus-vscode.md)
+- :hammer_and_wrench: Les outils web
 - :hammer_and_wrench: La boîte à outils de l'intégrateur junior! 
