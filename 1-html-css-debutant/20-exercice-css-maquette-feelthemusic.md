@@ -36,6 +36,12 @@ Ton designer t'as envoyé le design en screenshot. À toi de le reproduire en HT
 
 ![comments](./img/20/comment.png)
 
+## Les ressources
+
+Tu peux retrouver les images et logos nécessaire à la réalisation de cet exercice par ici:
+
+[https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic](https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic)
+
 ## Petit hack pour répéter son header/footer sur plusieurs pages
 
 ### En Jquery
