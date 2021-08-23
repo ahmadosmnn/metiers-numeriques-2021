@@ -37,7 +37,7 @@ Voici quelques points de règles à respecter pour que ta formation se passe le 
 
 Tu devras être présent **du lundi au vendredi** de **9h à 16h**.
 
-Toute absence devra être **justifiée**. Si tu es absent, envoie un email à ton formateur pour le prévenir: scalajeremy@possibles.org
+Toute absence devra être **justifiée**. Si tu es absent, envoie un email à ton formateur pour le prévenir: scalajeremy@possibles.org ou à la coordinatrice: laura.laruelle@possibles.org
 
 ### Les pauses
 
