@@ -6,8 +6,8 @@ Essayez de compléter un max d'exercice sur ce petit jeu, ça vous aidera a enco
 
 [Flexbox Froggy](https://flexboxfroggy.com/#fr)
 
-## Quelques exercices plus pratique
+## Maquette Discord
 
-:hammer_and_wrench: *minute petit papillon, le contenu arrive bientôt*
+[Reprends la maquette "Discord" qu'on a fait plus tôt](11-exercice-css-maquette-discord.md) et essaye de changer le header, la nav et les sections en `display:flex`.
 
 [:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
