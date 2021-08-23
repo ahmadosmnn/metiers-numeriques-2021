@@ -7,7 +7,7 @@ Ton designer t'as envoyé le design en screenshot. À toi de le reproduire en HT
 
 ## Consignes
 
-- Soir le plus fidèle possible au modèle
+- Sois le plus fidèle possible au modèle
 - Chaque page doit contenir le même header et footer. Soit tu le fais sur une page et tu recopies le code sur les autres, soit tu utilises [le "hack" en JQuerry](#en-jquery) expliqué plus bas
   - **Le header**: doit contenir le logo et le titre à gauche. Le menu est sur la droite.
   - **Le footer**: un menu à gauche vers d'autres pages (`href="#"`) et à droite les liens sociaux.
