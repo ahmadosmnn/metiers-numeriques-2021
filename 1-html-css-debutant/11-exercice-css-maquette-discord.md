@@ -54,7 +54,7 @@ Il est temps de mettre en pratique tout ce qu'on a vu jusqu'à maintenant. Tu va
   </section>
   <section>
     <h2>Téléchargez-le!</h2>
-    <img src="https://raw.githubusercontent.com/sirius-school/metiers-numeriques/bf999ca2dfa3534761d29d39e7c53f3be6521596/1-html-css-debutant/assets/discord/illu-discord.svg" alt="">
+    <img src="https://raw.githubusercontent.com/sirius-school/metiers-numeriques/1-html-css-debutant/assets/discord/illu-discord.svg" alt="">
   </section>
   <footer>
     <div>Mon premier site web qu'avec du HTML et CSS simple</div>
