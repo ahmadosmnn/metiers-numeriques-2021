@@ -14,16 +14,16 @@ Bienvenue dans le cours sur l'HTML et le CSS de niveau débutant, on est là pou
 8. [Théorie - CSS - les sélecteurs](08-theorie-css-selecteurs.md)
 9. [Théorie - CSS - les propriétés](09-theorie-css-prorietes.md)
 10. [Exercices intermédiaires CSS](10-exercices-intermediaires-css.md)
-11. [Exercice - Style à reproduire](11-exercice-css-maquette-discord.md)
+11. [Exercice - CSS - Maquette Discord](11-exercice-css-maquette-discord.md)
 12. [Théorie - Pseudo-sélecteur](12-theorie-css-pseudo-selecteurs.md)
 13. [Exercices intermédiaires - CSS - Pseudo-sélecteurs](13-exercices-css-pseudo-selecteurs.md)
-14. [Exercices - CSS - Maquette](14-exercices-css-maquettes.md)
+14. [Exercices - CSS - Maquette Pomme](14-exercice-css-maquette-pomme.md)
 15. [Théorie - HTML - Formulaire](15-theorie-html-form.md)
 16. [Exercice - HTML - Formulaire](16-exercice-html-form.md)
 17. [Théorie - CSS - Unités de mesures](17-theorie-css-mesures.md)
 18. [Théorie - Flexbox](18-theorie-flexbox.md)
 19. [Exercices - Flexbox](19-exercices-flexbox.md)
-20. [Exercice - Maquette Flexbox - Feel The Music](20-exercice-maquette-feelthemusic.md)
+20. [Exercice - Maquette Flexbox - Feel The Music](20-exercice-css-maquette-feelthemusic.md)
 21. :hammer_and_wrench: Théorie - CSS - Animations
 22. :hammer_and_wrench: Exercices - CSS - Animations
 
