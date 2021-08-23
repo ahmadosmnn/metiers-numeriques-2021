@@ -1,12 +1,17 @@
 # Initiation aux métiers numériques
 
-Alors comme ça on veut se lancer dans le numérique mais on sait pas encore trop si on veut faire du code ou du graphisme? Et bien pas de soucis, avec cette petite formation de 40 jours tu auras un aperçu de ces différents métiers et tu pourras t'orienter vers celui qui t'intéresse le plus.
+Découvrons ensemble trois métiers du numérique: intégrateur web, maquettiste et infographiste. Trois jobs très différents. L'un mets en page ce que l'autre réalise sur base des plans du premier.
+
+Le maquettiste c'est celui ou celle qui va réaliser "les plans" de notre application ou site web. Il/elle choisit où seront placés les différents éléments, comment l'utilisateur va interagir avec et quelles couleurs ils verront. C'est un peu l'architecte si une page web était une maison.
+
+L'infographiste va réaliser tous les éléments graphiques nécessaire à la réalisation de la maquette. Que ce soit des logos, pictos, illustrations, il réalise tout ça numériquement pour fournir aux autres jobs ce dont ils ont besoin pour illustrer l'application ou la page web. C'est un peu fournisseur de matériaux.
+
+L'intégrateur c'est celui qui récupère la maquette d'un site web et qui va réaliser le placement de tous les éléments que l'infographiste lui a fournit. Il part d'une page blanche, place le texte, les images, configure les différents blocs du site et leurs couleurs. Bref, c'est un peu le bâtisseur si une page était une maison.
 
 ## Au programme
 
-Ce cours se découpe en :five: séquences.
+Ce cours se découpe en :four: séquences.
 
-0. [Les différents métiers du numérique](0-differents-metiers/README.md) (:clock12: 1 heure)
 1. [HTML / CSS - niveau débutant](1-html-css-debutant/README.md) (:clock12: 15 jours)
 2. Introduction aux outils numérique (:clock12: 10 jours)
 3. JavaScript - niveau débutant (:clock12: 5 jours)
@@ -16,16 +21,15 @@ Ce cours se découpe en :five: séquences.
 
 ![presentation](presentation.png)
 
-On commencera en douceur avec un peu de théorie sur les métiers du numérique. 
 Nous commencerons par aborder le développement web avec l'HTML et le CSS. Nous verrons comment d'une page blanche on peut donner vie à une page web qui en jette.
 
-Très vite nous passeront sur une approche de certains des outils utilisés en tant que graphiste. Évidement il en existe énormément, mais ici ce n'est qu'un premier contact pour t'aider à t'orienter dans ton parcours professionnel.
+Ensuite nous passeront sur une approche de certains des outils utilisés en tant qu'infographiste. Évidement il en existe énormément, mais ici ce n'est qu'un premier contact pour t'aider à t'orienter dans ton parcours professionnel. Donc nous verrons principalement Photoshop et Illustrator ainsi que Figma / Adobe XD.
 
-Nous ferrons ensuite une petite pause avec une introduction à la programmation algorithmique avec JabaScript. Oui ça fait peur comme ça, mais c'est amusant, tu verras.
+Nous aurons droit ensuite à une petite pause avec une introduction à la programmation algorithmique avec JavaScript. Oui ça fait peur comme ça, mais c'est amusant, tu verras.
 
 Pour finir, nous approfondiront tes connaissances en HTML et CSS avec des concepts plus poussés comme l'utilisation de bibliothèque CSS, de méthodologie de nommage, du référencement mais aussi l'utilisation du terminal et de Git/GitHub.
 
-Ça te plait? Tant mieux. Ça te fait peur? Ça va allez.
+Ça te plait? Tant mieux. Ça te fait peur? Ne t'en fais pas tu vas vite progresser!
 
 ## Charte
 
@@ -69,6 +73,8 @@ N'hésite pas à jeter un oeil sur des collections d'images pour t'inspirer. Il 
 
 - [DeviantArt](http://www.deviantart.com) : Des milliers de créations graphique en tout genre
 - [Codepen](https://codepen.io/trending) : Des milliers de réalisations de code.
+- [Medium](https://medium.com/) : Des tas d'articles concernant le monde du développement mais pas que.
+- [Dev](https://dev.to/) : Des tas d'articles concernant le monde du développement mais pas que.
 - [Panda](https://usepanda.com/) : Une extension chrome pour garder un oeil sur des articles intéressants de plusieurs sites.
 - [30 Seconds Knowledge](https://30secondsofknowledge.com/) : Une extension chrome qui ouvre une page avec une info que tu peux lire en 30 secondes sur un sujet lié au code.
 
@@ -76,7 +82,7 @@ N'hésite pas à jeter un oeil sur des collections d'images pour t'inspirer. Il 
 
 Il va falloir présenter des sujets de veilles à tout le monde. Ce petit exercice à pour but de t'apprendre à réaliser une bonne veille, une bonne présentation et à prendre la parole devant tes camarades. Cela fait partie des **soft-skills** que tu vas développer tout au long de la formation.
 
-**Tu devras réaliser 2 veilles sur les 8 semaines de formation. Elle aura lieu après la pause de midi, à 13h.**
+**Tu devras réaliser 2 veilles sur les 8 semaines de formation. Elles auront lieu après la pause de midi, à 13h.**
 
 Pour les premières, c'est moi qui vais vous les donner pour que compreniez ce qu'il faut faire, mais par après, ça sera à vous de vous y coller.
 
@@ -86,9 +92,8 @@ Pour les premières, c'est moi qui vais vous les donner pour que compreniez ce q
 
 Cette année on va utiliser Discord pour communiquer. C'est gratuit et simple.
 
-> [Clique ici pour t'inscrire](https://discord.com/register)
->
-> [Clique ici pour rejoindre le serveur de l'école](https://discord.gg/FWqhrSdT7U)
+- [Clique ici pour t'inscrire](https://discord.com/register)
+- [Clique ici pour rejoindre le serveur de l'école](https://discord.gg/FWqhrSdT7U)
 
 ## Activité brise glace
 
