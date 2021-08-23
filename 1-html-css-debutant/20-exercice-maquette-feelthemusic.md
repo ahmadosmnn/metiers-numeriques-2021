@@ -14,7 +14,8 @@ Ton designer t'as envoyé le design en screenshot. À toi de le reproduire en HT
 - Il te faut 3 pages:
   - **index.html**: la page d'accueil
     - Il faut le portrait de la femme
-    - A sa droite doit se trouver le titre d'accroche, le sous-titre et le bouton pour arriver sur la page "comments.html"
+    - A sa droite doit se trouver le titre d'accroche, le sous-titre et le bouton pour arriver sur la page "comments.html" ("Join Now")
+    - Il y a des bulles présentes en arrière-plan. Tu devras utiliser la propriété `z-index`et `border-radius`pour y arriver!
   - **discover.html**: la page qui présente le produit. Cette page est un peu plus libre.
     - Affiches quelques pochettes d'album que tu aimes, essayes de reproduire le style sur le screenshot.
     - Places un texte d'accroche
