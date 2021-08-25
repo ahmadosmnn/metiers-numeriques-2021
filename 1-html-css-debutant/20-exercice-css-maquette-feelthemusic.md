@@ -46,6 +46,18 @@ Tu peux retrouver les images et logos nécessaire à la réalisation de cet exer
 
 [https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic](https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic)
 
+## La Google font
+
+Pour reproduire la maquette il te faudra la police d'écriture `Poppins` pour ce faire, il suffit de l'importer via Google Font.
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+```
+
 ## Petit hack pour répéter son header/footer sur plusieurs pages
 
 ### En Jquery
