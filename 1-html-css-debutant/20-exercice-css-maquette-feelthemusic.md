@@ -46,6 +46,14 @@ Tu peux retrouver les images et logos nécessaire à la réalisation de cet exer
 
 [https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic](https://github.com/sirius-school/metiers-numeriques/tree/main/1-html-css-debutant/assets/feelthemusic)
 
+## Les couleurs
+
+- Le fond de la page: #2F3038
+- Le fond du formulaire: #202027
+- Le fond des inputs: #2F3038
+- Le fond du footer: #202027
+- La couleur d'accent: #BC3A80
+- La couleur du bouton du formulaire: #1867A7 
 ## La Google font
 
 Pour reproduire la maquette il te faudra la police d'écriture `Poppins` pour ce faire, il suffit de l'importer via Google Font.
