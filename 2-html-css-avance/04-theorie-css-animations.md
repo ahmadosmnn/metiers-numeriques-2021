@@ -1,8 +1,12 @@
 <!-- omit in toc -->
-# Animation CSS (débutant)
+# Animation CSS (introduction)
 
 Les animations CSS permettent d'animer n'importe quel élément sur votre page web. Elles suppriment aussi le besoin d'utiliser du JavaScript ou du JQuerry. Elles sont facile à utiliser une fois qu'on a pris le pas.
 
+<!-- omit in toc -->
+## Table des matières
+
+- [Qu'est-ce qui est animable?](#quest-ce-qui-est-animable)
 - [Transform](#transform)
   - [Translate](#translate)
   - [Scale](#scale)
@@ -15,9 +19,15 @@ Les animations CSS permettent d'animer n'importe quel élément sur votre page w
   - [Pourcentages](#pourcentages)
 - [Amusez-vous](#amusez-vous)
 
+## Qu'est-ce qui est animable?
+
+Beaucoup des propriétés vues jusqu'à maintenant sont animables. Que ce soit `color`, `font-size`, `border` ou encore `flex`.
+
+Vous pouvez retrouver une liste complète sur [:book: la doc MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+
 ## Transform
 
-Voyons quelques valeurs animables. 
+Avant de voir comment faire une animation voyons la propriétés animable `transform`. Celle-ci permet de faire des modifications à vos éléments et peut prendre plusieurs valeurs.
 
 ### Translate
 
@@ -29,9 +39,9 @@ Permet de déplacer l'élément sur un axe horizontale (X) ou verticale (Y)
   }
 ```
 
-> :bulb: il est intéressant de noter que en utilisant translate, les autres contenu ne vont pas bouger.
+> :bulb: il est intéressant de noter que en utilisant translate, les autres contenu ne vont pas être impacté.
 
-![translate](./img/xx//translate.gif)
+![translate](./img/04/translate.gif)
 
 > :bulb: Il est également possible de combiner les deux axes en une seule ligne `transform: translate(200px, -50px)`
 
@@ -49,7 +59,7 @@ Permet d'agrandir l'élément et son contenu. Il est possible de le faire sur l'
 
 ### Rotate
 
-Permet d'éffectuer une rotation dans le sens des aiguilles d'une montre avec votre élément et son contenu. Il faut indiquer un paramètre en `deg` (degrés) et il peut être positif ou négatif.
+Permet d'éffectuer une rotation dans le sens des aiguilles d'une montre (par défaut) avec votre élément et son contenu. Il faut indiquer un paramètre en `deg` (degrés) et il peut être positif ou négatif.
 
 ```css
 .element{
@@ -111,7 +121,7 @@ Pour ce faire définissons 2 états
 }
 ```
 
-Tel quel notre "animation" se ferra correctement sur le survol de l'élément par le curseur. Mais ce n'est pas très lisse. 
+Tel quel notre "animation" se ferra correctement sur le survol de l'élément par le curseur. Mais ce n'est pas très "lisse".
 
 On peut donc appliquer une propriété `transition` à notre élément de base. On indique une valeur en temps (sec).
 
@@ -139,7 +149,7 @@ Vous pouvez aussi spécifier un délai avant que la transition ne se lance. Pour
 }
 ```
 
-Cela nous fait déjà beaucoup de contrôle sur notre transition, mais il existe une dernière valeur que l'on peut associer à notre transition. Il s'agit de la "fonction de temps" (timing-function). Cela détermine l'accélération de notre animation. Par défaut il s'agit de `linear` mais il en existe d'autres comme `ease-in`, `ease-out`,... Vous pouvez également créer votre propre accélération avec le `cubic-bezier`.
+Cela nous fait déjà beaucoup de contrôle sur notre transition, mais il existe une dernière valeur que l'on peut associer à notre transition. Il s'agit de la "fonction de temps" (timing-function). Cela détermine l'accélération de notre animation. Par défaut il s'agit de `linear` mais il en existe d'autres comme `ease-in`, `ease-out`,... Vous pouvez également créer votre propre accélération avec `cubic-bezier`.
 
 ```css
 .element{
@@ -147,9 +157,7 @@ Cela nous fait déjà beaucoup de contrôle sur notre transition, mais il existe
 }
 ```
 
-[Cubic-bezier](https://cubic-bezier.com)
-
-[Liste des propriété animables](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+> :bulb: Retrouvez sur [Cubic-bezier.com](https://cubic-bezier.com) la possibilité de créer vos propres accélération mais aussi des exemples des paramètres tels que `linear` ou `ease-in`.
 
 ## Keyframes
 
@@ -179,9 +187,9 @@ Pour appliquer cette animation à un élément il suffit d'utiliser la propriét
 
 On retrouve également quelques propriétés déjà vue dans les transition:
 
-* animation-timing-function: détermine l'accélération de l'animation
-* animation-delay: détermine le délai avant de commencer l'animation
-* animation-direction: détermine le sens de l'animation.
+- animation-timing-function: détermine l'accélération de l'animation
+- animation-delay: détermine le délai avant de commencer l'animation
+- animation-direction: détermine le sens de l'animation.
   
 [En voici d'autres](https://css-tricks.com/almanac/properties/a/animation/#sub-properties)
 
@@ -207,8 +215,10 @@ Voici un [lien vers un site](https://animista.net/) qui vous permet d'expérimen
 
 Consultez aussi [cette page interactive](https://rupl.github.io/unfold/) pour voir la puissance du CSS
 
-Et voici 3 petits jeux réalisés en CSS:
+Et voici 3 petits jeux réalisés en HTML et CSS **uniquement**:
 
-* [Roadmap](http://victordarras.fr/cssgame)
-* [Target Carnival](https://codepen.io/una/pen/NxZaNr)
-* [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
+- [Roadmap](http://victordarras.fr/cssgame)
+- [Target Carnival](https://codepen.io/una/pen/NxZaNr)
+- [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

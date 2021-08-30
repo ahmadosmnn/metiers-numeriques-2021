@@ -1,21 +1,25 @@
 <!-- omit in toc -->
+
 # 10 Bonnes pratiques en Responsive Design
 
 <!-- omit in toc -->
+
 ## Table des matières
 
-- [1. Pensez petit... et grand](#1-pensez-petit-et-grand)
-- [2. Pensez au contexte](#2-pensez-au-contexte)
-- [3. Réduire intelligemment le contenu](#3-réduire-intelligemment-le-contenu)
-- [4. Priorisez le contenu différemment](#4-priorisez-le-contenu-différemment)
-- [5. Navigation évolutive](#5-navigation-évolutive)
-- [6. La qualité des images VS vitesse de téléchargement](#6-la-qualité-des-images-vs-vitesse-de-téléchargement)
-- [7. Utiliser des icônes](#7-utiliser-des-icônes)
-- [8. Faites attention à la taille de vos polices](#8-faites-attention-à-la-taille-de-vos-polices)
-- [9. Pensez aux méthodes de saisie](#9-pensez-aux-méthodes-de-saisie)
-- [10. Testez votre design sur des appareils actuels](#10-testez-votre-design-sur-des-appareils-actuels)
-- [Bonus](#bonus)
-- [Source](#source)
+- [10 Bonnes pratiques en Responsive Design](#10-bonnes-pratiques-en-responsive-design)
+  - [Table des matières](#table-des-matières)
+  - [1. Pensez petit... et grand](#1-pensez-petit-et-grand)
+  - [2. Pensez au contexte](#2-pensez-au-contexte)
+  - [3. Réduire intelligemment le contenu](#3-réduire-intelligemment-le-contenu)
+  - [4. Priorisez le contenu différemment](#4-priorisez-le-contenu-différemment)
+  - [5. Navigation évolutive](#5-navigation-évolutive)
+  - [6. La qualité des images VS vitesse de téléchargement](#6-la-qualité-des-images-vs-vitesse-de-téléchargement)
+  - [7. Utiliser des icônes](#7-utiliser-des-icônes)
+  - [8. Faites attention à la taille de vos polices](#8-faites-attention-à-la-taille-de-vos-polices)
+  - [9. Pensez aux méthodes de saisie](#9-pensez-aux-méthodes-de-saisie)
+  - [10. Testez votre design sur des appareils actuels](#10-testez-votre-design-sur-des-appareils-actuels)
+  - [Bonus](#bonus)
+  - [Source](#source)
 
 ## 1. Pensez petit... et grand
 
@@ -45,7 +49,7 @@ Il faut apprendre à être sans pitié avec votre contenu pour que votre design 
 
 ## 4. Priorisez le contenu différemment
 
-Passer de plusieurs colonnes sur grand écran à une seule colonne sur petit écran est la première chose à laquelle on pense quand on fait du responsive design. Mais ça ne s'arrête pas là. D'autre type de contenu peuvent avoir besoin d'être adapté. 
+Passer de plusieurs colonnes sur grand écran à une seule colonne sur petit écran est la première chose à laquelle on pense quand on fait du responsive design. Mais ça ne s'arrête pas là. D'autre type de contenu peuvent avoir besoin d'être adapté.
 
 Prenez comme exemple une liste d'articles sur un grand écran, chaque article aurait un titre, un aperçu du contenu, une photo, le nom de l'auteur et la date de publication. Lorsque cette liste est affichée sur un petit appareil, il est préférable de cacher la photo par exemple, pour gagner de la place.
 
@@ -65,7 +69,7 @@ Un exemple, un menu déroulant qui s'affiche quand on passe notre souris au dess
 
 ## 6. La qualité des images VS vitesse de téléchargement
 
-Une page web fait en moyenne 2.3Mo. 
+Une page web fait en moyenne 2.3Mo.
 
 Le principale coupable se sont les images, et encore plus les images mal optimisées. Il faut impérativement trouver la bonne balance entre qualité et poids. Étudiez chacune de vos images et demandez-vous lesquelles sont obligatoires, supprimez celle qui ne le sont pas et réduisez la qualité des autres. Des outils comme Photoshop peuvent vous aidez à avoir un aperçu de l'optimisation de votre image.
 
@@ -95,7 +99,7 @@ La typographie est une partie importante de votre web design, qu'il soit respons
 
 Il est normal pour un utilisateur d'ordinateur d'utiliser une souris et un clavier pour naviguer sur le net, mais ce n'est pas forcément le cas pour quelqu'un qui est sur tablette ou mobile. Du coup, il faut pensez par exemple à agrandir la taille vos champs de formulaire/sélection pour permettre à l'utilisateur de cliquez sur le bon champ facilement.
 
- [:arrow_up:Revenir au top](#table-des-matières)
+[:arrow_up:Revenir au top](#table-des-matières)
 
 ## 10. Testez votre design sur des appareils actuels
 

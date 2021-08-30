@@ -3,9 +3,9 @@
 
 Voyons ensemble comment rendre nos pages accessibles sur tous les appareils.
 
+<!-- omit in toc -->
 ## Table des matières
 
-- [Table des matières](#table-des-matières)
 - [Qu'est-ce que c'est que le responsive design](#quest-ce-que-cest-que-le-responsive-design)
 - [Viewport](#viewport)
   - [Comment configurer le viewport](#comment-configurer-le-viewport)
@@ -87,13 +87,15 @@ Une image responsive est une image qui se redimensionne correctement sur n'impor
 </picture>
 ```
 
+> Dans l'exemple au dessus on spécifie une balise `<picture>` qui va contenir plusieurs source avec un attribut `media` pour définir notre media query. On utilise en dernier une balise `<img>` en tant que fallback, c'est à dire en dernier recours si les autres images ne sont plus disponibles. 
+
 [En savoir plus](https://www.w3schools.com/tags/tag_picture.asp)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
 ## Vue en grille
 
-On a déjà vu l'utilisation de grid, mais attention de ne pas confondre. Une grid en css peut avoir différentes utilisation. Tandis que penser son site en grille c'est juste une pratique pour faire du responsive design. 
+Penser son site en grille c'est une pratique pour faire du responsive design.
 
 La plupart du temps, un site web est découpé en 12 colonnes. Chacune ayant un taille identique ou spécifique en fonction des besoins. Votre vue en grille représente 100% de la largeur du viewport.
 
@@ -120,7 +122,7 @@ Voici un exemple de grille de 12 colonnes en CSS.
 
 On utilise ces classes pour définir le nombres de colonnes que notre élément doit prendre. Cette technique est notamment utilisé dans Bootstrap. Seulement telle qu'elle c'est responsive, jusqu'à un certain stade, dès que l'on passe sur une résolution fort basse, le tout est écrasé. De nouveau, on va voir les Media Queries un peu plus bas pour remédier à cela.
 
-Ensuite en HTML il faut que l'ensemble des colonnes utilisés dans une rangée s'additionne pour faire 12.
+Ensuite en HTML il faut que l'ensemble des colonnes utilisés dans une rangée s'additionne pour faire 12. C'est mieux.
 
 ```html
 <div class="row">
