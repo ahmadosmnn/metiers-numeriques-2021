@@ -13,7 +13,7 @@ Découvrons ensemble trois métiers du numérique: intégrateur web, maquettiste
 Ce cours se découpe en :four: séquences.
 
 1. [HTML / CSS - niveau débutant](1-html-css-debutant/README.md) (:clock12: 15 jours)
-2. HTML / CSS - niveau avancé :fire: (:clock12: 10 jours)
+2. [HTML / CSS - niveau avancé :fire:](2-html-css-avance/README.md) (:clock12: 10 jours)
 3. Introduction aux outils numérique (:clock12: 10 jours)
 4. JavaScript - niveau débutant (:clock12: 5 jours)
 
