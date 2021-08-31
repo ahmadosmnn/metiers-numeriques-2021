@@ -25,6 +25,8 @@ Beaucoup des propriétés vues jusqu'à maintenant sont animables. Que ce soit `
 
 Vous pouvez retrouver une liste complète sur [:book: la doc MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Transform
 
 Avant de voir comment faire une animation voyons la propriétés animable `transform`. Celle-ci permet de faire des modifications à vos éléments et peut prendre plusieurs valeurs.
@@ -97,6 +99,8 @@ Il est tout à fait possible d'écrire plusieurs valeurs à la propriété trans
   }
 ```
 
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Transition
 
 Voyons maintenant comment on peut passer d'un état à un autre. Oui, ça s'appel une transition.
@@ -159,6 +163,8 @@ Cela nous fait déjà beaucoup de contrôle sur notre transition, mais il existe
 
 > :bulb: Retrouvez sur [Cubic-bezier.com](https://cubic-bezier.com) la possibilité de créer vos propres accélération mais aussi des exemples des paramètres tels que `linear` ou `ease-in`.
 
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Keyframes
 
 ### From & To
@@ -207,18 +213,26 @@ Il est également possible de diviser votre animation en utilisant des %. Pour c
 }
 ```
 
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Amusez-vous
 
 C'est à vous de jouer maintenant, créez des animations, tentez des choses, voyez comment ça se comporte.
 
-Voici un [lien vers un site](https://animista.net/) qui vous permet d'expérimenter toutes sortes d'animation.
+Voici [Animista](https://animista.net/) un site qui vous permet d'expérimenter toutes sortes d'animation.
 
-Consultez aussi [cette page interactive](https://rupl.github.io/unfold/) pour voir la puissance du CSS
+Consultez aussi [cette page interactive](https://rupl.github.io/unfold/) pour voir la puissance du CSS.
+
+Et voici [5 frameworks](https://dev.to/aashishpanthi/top-5-javascript-animation-libraries-2021-17n7) pour réaliser des animations.
+
+
 
 Et voici 3 petits jeux réalisés en HTML et CSS **uniquement**:
 
 - [Roadmap](http://victordarras.fr/cssgame)
 - [Target Carnival](https://codepen.io/una/pen/NxZaNr)
 - [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
+
+[:arrow_up: Revenir au top](#table-des-matières)
 
 [:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
