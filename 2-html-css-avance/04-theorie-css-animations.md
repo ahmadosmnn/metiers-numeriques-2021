@@ -225,8 +225,6 @@ Consultez aussi [cette page interactive](https://rupl.github.io/unfold/) pour vo
 
 Et voici [5 frameworks](https://dev.to/aashishpanthi/top-5-javascript-animation-libraries-2021-17n7) pour réaliser des animations.
 
-
-
 Et voici 3 petits jeux réalisés en HTML et CSS **uniquement**:
 
 - [Roadmap](http://victordarras.fr/cssgame)
