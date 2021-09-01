@@ -59,6 +59,8 @@ Respecte tes condisciples et tous les membres de Sirius.
 
 Si tu as un problème, quel qu'il soit, n'hésite pas à venir en parler à un membre de Sirius.
 
+**Mets ton téléphone en silencieux!**
+
 ## Veilles technologiques
 
 ![home](watch.png)
