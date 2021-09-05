@@ -17,8 +17,8 @@ Nous allons allez un petit peu plus loin et voir certains concepts clés utilis�
 6. [Théorie - CSS - Font Awesome](06-theorie-font_awesome.md)
 7. [Théorie - CSS - Méthodologie de nommage BEM](07-theorie-bem.md)
 8. [Exercice intermédiaire - Maquette City Night Life](08-exercice-maquette-city_night_life.md)
-9. :hammer_and_wrench: Théorie - CSS - Tailwind
-10. :hammer_and_wrench: Théorie - CSS - Grid
+9. [Théorie - CSS - Tailwind](09-theorie-tailwind.md)
+10. [Exercices - CSS - Tailwind](10-exercices-tailwind.md)
 11. :hammer_and_wrench: Exercice Final - Maquette Creative
 
 ## La règle d'OR
