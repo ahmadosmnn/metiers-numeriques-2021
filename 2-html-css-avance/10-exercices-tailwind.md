@@ -18,6 +18,7 @@ Je vais te guider pas à pas.
 - [Première page](#première-page)
   - [Le début](#le-début)
   - [Allons plus loins](#allons-plus-loins)
+  - [Et ensuite ?](#et-ensuite-)
 
 ## Mise en place
 
@@ -105,4 +106,23 @@ Voilà déjà un élément mis en place très facilement. Tu vois, c'est simple,
 
 ### Allons plus loins
 
-:hammer_and_wrench: *J'y travaille...*
+Vous vous souvenez de notre cher ami Flexbox? Et bien il est disponible aussi avec Tailwind (encore heureux!). Voyons vite fait comment on peut mettre ça en place.
+
+1. Commençons pas créer un nouveau container centré (voir plus haut)
+2. Insérons 4 images, voici un élément déjà tout fait pour les plus paresseux:
+
+```html
+<img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif?cid=ecf05e478yejx0rjg6e7zg0lajpf46fcm7tgh72fj5syjkn3&rid=giphy.gif&ct=g" alt="">
+```
+
+3. On se rend compte que nos images se comporte comme prévu car notre container est toujours un block. Changeons cela en consultant la page de [flex](https://tailwindcss.com/docs/flex).
+4. Ajoutons donc les classes `flex` et `flex-wrap`.
+5. Ensuite on aimerait pouvoir utiliser **justify-content** pour centrer nos images. Voyons donc la page [justify-content](https://tailwindcss.com/docs/justify-content) et ajoutons `justify-center`
+
+Ben voilà, c'est déjà finis. Simple d'utiliser Flex comme ça, non?
+
+### Et ensuite ?
+
+Il y a encore tellement de choses à voir sur Tailwind, mais au final, vous l'aurez compris, c'est du CSS classique. Il n'y a rien de nouveau à apprendre à part le noms des classes. Mais si vous avez compris comment ça fonctionne en CSS, il est facile de chercher dans la doc comment ça fonctionne avec Tailwind.
+
+Il est maintenant temps d'appliquer ça sur un nouvel exercice... Si vous voulez!
