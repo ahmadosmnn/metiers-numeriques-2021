@@ -18,6 +18,7 @@ Je vais te guider pas à pas.
 - [Première page](#première-page)
   - [Le début](#le-début)
   - [Allons plus loins](#allons-plus-loins)
+  - [Un bouton](#un-bouton)
   - [Et ensuite ?](#et-ensuite-)
 
 ## Mise en place
@@ -119,7 +120,20 @@ Vous vous souvenez de notre cher ami Flexbox? Et bien il est disponible aussi av
 4. Ajoutons donc les classes `flex` et `flex-wrap`.
 5. Ensuite on aimerait pouvoir utiliser **justify-content** pour centrer nos images. Voyons donc la page [justify-content](https://tailwindcss.com/docs/justify-content) et ajoutons `justify-center`
 
-Ben voilà, c'est déjà finis. Simple d'utiliser Flex comme ça, non?
+Ben voilà, c'est déjà finis. Simple d'utiliser Flex comme ça, non? Allez faisons maintenant un petit bouton pour le fun
+
+### Un bouton
+
+Histoire d'utiliser les états comme `hover`, `focus`,... 
+
+1. Créons une `<div>` avec dedans `<button>` et le texte **click me**. Appliquons une taille, pour ce faire, je consulte donc la page [width](https://tailwindcss.com/docs/width) et [height](https://tailwindcss.com/docs/height).
+2. J'ajoute les classes suivantes à mon `<button>`: `w-max` et `h-max`(pour qu'il s'adapte à la talle max du contenu).
+3. J'aimerai aussi que mon bouton respire un peu, je vais donc appliquer un padding à mon bouton: `px-5` et `py-3`.
+4. J'arrondis les bords: `rounded-2xl`
+5. J'ajoute un fond: `bg-yellow-200`
+6. Et vite fait un petit `hover:bg-yellow-400` en consultant la page [Hover, Focus, & Other States](https://tailwindcss.com/docs/hover-focus-and-other-states).
+
+Voilà, on a notre bouton. De nouveau, c'est super simple à faire.
 
 ### Et ensuite ?
 
