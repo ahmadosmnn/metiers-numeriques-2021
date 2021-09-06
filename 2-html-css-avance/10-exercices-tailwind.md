@@ -80,8 +80,8 @@ Je vais décrire ici mon processus de réflexion pour créer cette page en imagi
 1. J'aimerai commencer par mettre un block qui contiendra un titre avec un fond de couleur.
 2. Je consulte la page [container](https://tailwindcss.com/docs/container)
 3. Dans la page `tailwind.html` j'insère une `<div>` avec la classe `container`. J'ajoute un simple `Bienvenue`.
-4. Je consulte ensuite la page [background-color](https://tailwindcss.com/docs/background-color)
-5. J'aimerai un fond rouge, j'insère alors dans ma classe de ma `<div>` le nom suivant: `bg-red-700`
+4. J'aimerai un fond rouge, je consulte donc la page [background-color](https://tailwindcss.com/docs/background-color)
+5. J'insère alors dans ma classe de ma `<div>` le nom suivant: `bg-red-700`
 6. Je me rends compte que mon container n'est pas centré, je consulte donc la page [margin](https://tailwindcss.com/docs/margin) car j'aimerai avoir des marges automatiques de chaque côté.
 7. J'ajoute la classe `mx-auto` pour ajouter une Marge auto sur l'axe X (gauche et droite)
 8. Ajoutons maintenant un fond à notre page. Dans la balise `<body>` j'ajoute une classe `bg-red-100`.
