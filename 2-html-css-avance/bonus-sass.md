@@ -43,10 +43,10 @@ Ensuite on va utiliser un plugin pour VScode pour pouvoir surveiller notre fichi
 
 Dans votre projet il suffit de créer un fichier `main.scss` dans un dossier `sass`.
 
-Une fois dans le fihcier Sass, vous pouvez cliquer sur le bouton `Watch Sass`en bas de votre Vscode ![watch-sass](images/watchsass.png)
+Une fois dans le fihcier Sass, vous pouvez cliquer sur le bouton `Watch Sass`en bas de votre Vscode ![watch-sass](img/bonus/watchsass.png)
 
 Une fenêtre `Output` devrait apparaître
-![output](images/output-sass.png)
+![output](img/bonus/output-sass.png)
 
 Cette fenêtre vous indique que le fichier `.scss` est bien surveillé. Si vous ajoutez du contenu et que vous sauvegardez elle indiquera qu'elle a détecté des changements et qu'elle a généré les fichiers `.css` et `.css.map`. Ceux-ci sont situés dans le même dossier que le fichier `.scss`
 
@@ -66,13 +66,13 @@ sass --watch ./sass:./css
 
 Cette commande surveillera tous les fichiers dans le dossier "sass" et générera les fichiers dans le dossier "css". On sépare les deux dossiers par un `:`.
 
-![terminal-sass](images/sass-terminal.png)
+![terminal-sass](img/bonus/sass-terminal.png)
 
 > :exclamation::exclamation::exclamation: Quand vous exécutez ces commandes, faites bien attention à où vous vous trouvez. Dans les exemples plus haut je suis à la racine de mon projet. Pensez à utiliser `cd` pour naviguer dans vos dossiers si ce n'est pas votre cas.
 
 Peu importe la méthode utilisée, le fait de surveiller votre fichier `.scss` permet aussi de détecter d'éventuel problème de syntaxe. En effet, si Sass détecte un soucis il ne générera pas le fichier et vous indiquera dans la fenêtre "Output" ou dans le terminal, où se situe le problème. Donc gardez à l'oeil cette fenêtre.
 
-![error-sass](images/error-sass.png)
+![error-sass](img/bonus/error-sass.png)
 
 [:arrow_up:Revenir au top](#Syntactically-Awesome-Style-Sheet)
 
