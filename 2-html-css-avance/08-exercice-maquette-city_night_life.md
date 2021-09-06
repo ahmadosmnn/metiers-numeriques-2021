@@ -34,7 +34,14 @@ Tu retrouveras tous les éléments nécessaires à la réalisation de cette maqu
 @media only screen and (min-width: 768px) {...}
 ```
 
-- Utilise les **[imports](https://www.w3schools.com/cssref/pr_import_rule.asp)** en CSS pour séparer ton travail entre la version *desktop* et la version *tablet*
+- Utilise la MQ pour desktop ci-dessous
+
+```css
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+```
+
+- Tu peux utiliser les **[imports](https://www.w3schools.com/cssref/pr_import_rule.asp)** en CSS pour séparer ton travail entre la version *desktop* et la version *tablet*
 
 ## Conseils
 
