@@ -25,6 +25,7 @@ Tu retrouveras tous les éléments nécessaires à la réalisation de cette maqu
 
 ### Version tablet
 
+- La largeur maximum du container principal est de 790px
 - Il faut utiliser les **[Mediaqueries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)**
 - Utilise la MQ pour les Medium devices ci-dessous
 
