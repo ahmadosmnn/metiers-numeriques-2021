@@ -81,3 +81,5 @@ Voyons les quelques formats qu'on va rencontrer ensemble ces prochains jours.
 Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme `.php` ou `.scss`. Mais vous verrez ceux-ci en temps voulu.
 
 [:arrow_up: Revenir au top](#table-des-matières)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

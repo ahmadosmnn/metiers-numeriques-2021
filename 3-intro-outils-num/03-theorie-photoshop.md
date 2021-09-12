@@ -1,13 +1,17 @@
 <!-- omit in toc -->
 # Adobe Photoshop
 
-Créé en 1990 par la société Adobe (prononcé "Adobi"), Photoshop est devenu le logiciel star de la retouche et création numérique. Nombres de films et séries y font référence tellement il est ancré dans la culture générale.
+Créé en 1990 par la société Adobe (prononcé "Adobi"), Photoshop est devenu le logiciel star de la retouche et création numérique. Il est principalement utilisé pour le **traitement des photographies numériques**, il sert également à la **création d’images complexes** et de **documents graphiques**. Il travaille essentiellement sur **images matricielles**, ces images sont constituées d’une grille de points appelés pixels. Photoshop possède son propre format de fichier (**extension psd**). Celui-ci permet de conserver les différents calques et effets constituant l'image afin de les manipuler séparément. 
+Le programme peut également importer et exporter des fichiers d’image dans les formats les plus courants tels que gif, jpg, tiff, png, etc.
+
+Nombres de films et séries y font maintenant référence tellement il est ancré dans la culture générale. Vous pouvez retrouver une mention de Photoshop dans [Casino Royale avec Daniel Craig.](https://youtu.be/XCt7gkcfOSE?t=83)
 
 Le logiciel à eu nombres de versions, à l'heure de ces lignes nous sommes à la version 22.4.3. C'est énorme! Évidement il n'est pas question ici de faire un historique de toutes les versions et leurs différents apports. Sachez juste que la version 1 du logiciel était évidement très basique, et que désormais on a droit à des outils utilisant l'intelligence artificielle pour nous aider dans certaines tâches. Le bon technologique est énorme.
 
 Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en voici quelques-unes:
 
-- [Thomas Knoll, un des créateurs de Photoshop recré la première démo qu'il a fait du logiciel :uk:](https://youtu.be/Tda7jCwvSzg)
+- [L'histoire de Photoshop :fr:](https://www.youtube.com/watch?v=PuOkq18YcY4&ab_channel=Konbini)
+- [Thomas Knoll, un des créateurs de Photoshop recrée la première démo qu'il a fait du logiciel :uk:](https://youtu.be/Tda7jCwvSzg)
 - [Des artistes VFX utilisent Photoshop 1 :uk:](https://youtu.be/8LkUzVexLTU)
 - [Un graphiste utilise Photoshop 1 :uk:](https://youtu.be/ftaIzyrMDqE)
 
@@ -25,19 +29,21 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 - [Créer un nouveau document](#créer-un-nouveau-document)
 - [L'interface](#linterface)
   - [La gestion des interfaces](#la-gestion-des-interfaces)
-- [Les outils principaux](#les-outils-principaux)
-  - [Sélection](#sélection)
-  - [Pipette](#pipette)
-  - [Recadrage](#recadrage)
-  - [Pinceau (brush)](#pinceau-brush)
-  - [Pot de peinture](#pot-de-peinture)
-  - [Dégradé](#dégradé)
-  - [Retouches](#retouches)
 - [Ouvrir / Importer une image](#ouvrir--importer-une-image)
-- [Détourage](#détourage)
+- [Les outils principaux](#les-outils-principaux)
+  - [Recadrage](#recadrage)
+  - [Sélection](#sélection)
+  - [Dessin Bitmap](#dessin-bitmap)
+  - [La plume](#la-plume)
+  - [Dégradé et remplissage](#dégradé-et-remplissage)
+  - [Pipette](#pipette)
+  - [Retouche](#retouche)
+  - [Texte](#texte)
+  - [Le reste](#le-reste)
 - [Calques de réglages](#calques-de-réglages)
+- [Masque](#masque)
+- [Style de calque](#style-de-calque)
 - [Filtres](#filtres)
-- [Exercices](#exercices)
 
 ## Créer un nouveau document
 
@@ -90,44 +96,101 @@ Vous pouvez gérez tous vos panneaux dans le menu ```Fenêtre```. Vous retrouver
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
+## Ouvrir / Importer une image
+
+Pour ouvrir une image dans Photoshop plusieurs méthodes s'offrent à vous. Vous pouvez glisser-déposer la photo, utiliser le raccourcis `ctrl+o` / `cmd+o` ou bien encore passer par le menu `Fichier > Ouvrir`
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Les outils principaux
-
-in
-
-### Sélection
-
-![selection](img/3/tools/retouche.svg)
-
-### Pipette
 
 ### Recadrage
 
-### Pinceau (brush)
+![recadrage](img/3/tools/recadrage.png) 
 
-### Pot de peinture
+Cet outil permet de recadrer votre image, c'est à dire, réduire ses bords pour concentrer son regard sur une partie de l'image.
 
-### Dégradé
+![recadrage](img/3/tools/recadrage_exemple.png)
 
-### Retouches
+### Sélection
 
-[:arrow_up: Revenir au top](#table-des-matières)
+![selection](img/3/tools/selection.png)
+![selection](img/3/tools/selection2.png)
 
-## Ouvrir / Importer une image
+Les outils de sélections permettent de choisir une partie de notre fichier pour travailler dedans ou pour la copier. Il est possible d'ajouter ou supprimer des zones de sélections avec les touches de modifications **SHIFT** ou **ALT**.
 
-[:arrow_up: Revenir au top](#table-des-matières)
+![selection](img/3/tools/selection_example.png)
 
-## Détourage
+### Dessin Bitmap
 
-[:arrow_up: Revenir au top](#table-des-matières)
+![bitmap](img/3/tools/bitmap.png)
+
+Tous ces outils vous permettent d'ajouter des pixels de différentes façons à votre image.
+
+### La plume
+
+![plume](img/3/tools/plume.png)
+
+Un outil que l'on utilisera beaucoup plus dans Illustrator, la plume, permet de dessiner des courbes de bézier. Elle peut servir à faire des sélections plus complexes ou des formes différentes.
+
+### Dégradé et remplissage
+
+![gradient](img/3/tools/gradient.png)
+
+L'outil dégradé et de remplissage permettent de remplir une image ou une zone rapidement d'une couleur, un dégradé ou de contenu pris en compte (content-aware).
+
+### Pipette
+
+![pipette](img/3/tools/pipette.png)
+
+La pipette permet de sélectionner la couleur de n'importe quel pixel! Vous pouvez maintenir la touche **ALT** pour utiliser rapidement l'outil.
+
+### Retouche
+
+![retouche](img/3/tools/retouche.png)
+
+L'outil **tampon** et **correcteur** vont vous permettre d'effectuer des corrections sur vos images. Cela permet de manipuler les pixels et d'en recréer des nouveaux pour par exemples effacer un objet indésirable sur une scène ou corriger les imperfections d'un modèle.
+
+### Texte
+
+![texte](img/3/tools/texte.png)
+
+Cet outil vous permet de rajouter du texte à vos créations.
+
+### Le reste
+
+Il y a évidement encore beaucoup d'autres outils, à vous de le découvrir!
 
 ## Calques de réglages
+
+![reglages](img/3/tools/reglages.png)
+
+Les calques de réglages permettent d'ajuster votre image de différentes façon sans l'altérer. Par exemple, vous pouvez modifier la teinte et saturation de votre image, manipuler sa courbe, sa luminosité,...
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+## Masque
+
+![masque](img/3/tools/masque.png)
+
+Sert à masquer une partie de l'image sans devoir en supprimer les pixels. Très utilisé pour détourer un sujet.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+## Style de calque
+
+![style](img/3/tools/style.png)
+
+Permet d'ajouter des effets à votre calque comme par exemple des bordures, une ombre, une texture,... Il faut les utiliser avec modération, mais il y a moyen de réaliser de chouettes effets avec.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
 ## Filtres
 
+![filtres](img/3/tools/filtres.png)
+
+Toutes sortes de modifications que l'on peut apporter à notre image, comme par exemple flouter une partie de l'image, déformer ou accentuer une image,... Il faut également les utiliser avec parcimonie pour présenter un travail pro.
+
 [:arrow_up: Revenir au top](#table-des-matières)
 
-## Exercices
-
-[:arrow_up: Revenir au top](#table-des-matières)
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

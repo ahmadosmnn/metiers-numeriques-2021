@@ -16,3 +16,7 @@ Bienvenue à toi jeune entrepreneur du numérique. Ouai, ça veut pas dire grand
 7. [Théorie - Figma / Adobe XD](07-theorie-figma-xd.md)
 8. [Exercices - Figma / Adobe XD](08-exercices-figma-xd.md)
 9. [Alternative web](09-theorie-alternative.md)
+
+## Liens utiles
+
+- [La chaîne de Balo](https://www.youtube.com/channel/UCWOqcCXp7jTwvkVhLkQVeFg): un graphiste belge

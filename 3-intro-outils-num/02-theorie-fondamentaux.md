@@ -14,6 +14,7 @@ Dans les prochaines sessions de cours nous allons utiliser des logiciels tels qu
   - [HEX RGB](#hex-rgb)
   - [RGB(A)](#rgba)
   - [CMJN](#cmjn)
+  - [TSL](#tsl)
 
 ## Le système de calques
 
@@ -41,7 +42,7 @@ Pour encore mieux comprendre le principe, voici un autre exemple où j'ai caché
 
 > Regardez ces magnifiques carrés blanc et gris! C'est le fond transparent de votre image.
 
-Vous pouvez retrouver le ```.psd``` utilisé en exemple en [le téléchargeant ici :floppy_disk:](./assets/calques.psd)
+Vous pouvez retrouver le ```.psd``` utilisé en exemple en [le téléchargeant ici :floppy_disk:](https://drive.google.com/file/d/1W3rlU91HKrIuuZS1AdalwqmL_MZOQSt7/view?usp=sharing)
 
 Voici également un lien vers un tuto [Adobe Photoshop](https://helpx.adobe.com/be_fr/photoshop/how-to/ps-layers-basics.html) qui explique plus en profondeurs l'utilisations des calques. Pas de panique, nous verrons cela ensemble.
 
@@ -79,6 +80,8 @@ Le CMJN est donc le mode couleurs à utiliser pour toute impression afin de gara
 
 ![rvb-cmjn-diff](./img/2/rvb-cmjn.jpeg)
 
+[:arrow_up: Revenir au top](#table-des-matières)
+
 ## Hexadécimal / RGB(A) / CMJN
 
 Il y a plusieurs façon d'utiliser une couleur dans les logiciels graphique ou sur le web. Voyons-en déjà quelques unes.
@@ -103,4 +106,12 @@ p { color: rgba(100%, 0%, 0%, 0.5) }
 
 Pour utiliser des couleurs CMJN il suffit de renseigner une valeur de 0 à 100% pour chacune de ces couleurs. Le logiciel ferra le "mélange" lui-même.
 
+### TSL
+
+On retrouve également la possibilité de définir notre couleur via la Teinte, Saturation et Luminosité. 
+
 ![cmjn](img/2/cmjn.png)
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
