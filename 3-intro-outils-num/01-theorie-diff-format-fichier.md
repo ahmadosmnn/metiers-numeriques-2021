@@ -11,8 +11,8 @@ L'informatique est remplit de type de fichiers différents, qu'on parle de fichi
   - [Image Vectorielle vs Matricielle](#image-vectorielle-vs-matricielle)
   - [Formats fichier image](#formats-fichier-image)
     - [Le cas du WebP](#le-cas-du-webp)
+  - [Le SVG](#le-svg)
   - [Sources](#sources)
-- [Fichier web](#fichier-web)
 
 ## Fichier image
 
@@ -54,6 +54,10 @@ Le `.webp`est un format moderne proposé par Google qui possède une compression
 
 Il reste cependant certains logiciel comme Photoshop qui ne savent ni les ouvrir, ni les générer. Il faut donc passer par d'autres outils comme des convertisseurs en ligne pour  les créer.
 
+### Le SVG
+
+`.svg`: C'est un format d'image mais celui-ci est éditable en ligne de code, c'est pour cela qu'on le considère plutôt comme un fichier web, qu'une image. Il est formé de multiples lignes de coordonnées de points qui forment votre image.
+
 ### Sources
 
 Les formats vu plus haut sont tous des formats "exploitable" sur le web, c'est à dire que vous pouvez les intégrer à vos pages de votre site, dans un email, sur votre fil d'actualité Facebook ou Instagram. A contrario, il existe des types de fichiers dit "sources" qui sont des fichiers que vous ne pouvez pas afficher dans vos contenus. Ceux-ci sont là pour vous permettre d'éditer de nouveau vos créations pour en changer la taille, la couleur, les formes,...
@@ -62,23 +66,6 @@ Chaque logiciel graphique à son propre fichier source, nous allons voir les deu
 
 - `.psd`: PhotoShop Document, il stock toutes les options disponible dans le logiciel. Cela inclut les calques et leurs masques, la transparence, le texte, les couches alpha, les couleurs, les segments, les filtres,... Cela permet d'avoir toujours accès aux modifications apportés à nos contenus en cas de correction nécessaire.
 - `.ai`: Adobe Illustrator, un peu comme le psd, ce fichier stock toutes les options du programme dans un fichier pour pouvoir éditer de nouveau l'illustration crée.
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
-## Fichier web
-
-Comme pour les images, le web à ses propres formats de fichiers. Ces fichiers contiennent des lignes de code pour déterminer leurs fonctionnalités.
-
-Voyons les quelques formats qu'on va rencontrer ensemble ces prochains jours.
-
-- `.html`: HyperText Markup Language, est un langage non pas de programmation mais de balisage. C'est lui qui permet de structurer le contenu de nos pages sémantiquement (transmettre au navigateur ce que l'on veut dire par nos contenus).
-- `.css`: Cascading Style Sheets, est un langage qui décrit les styles utilisés sur vos contenus web. Cela permet de mettre en forme vos textes, images et autres comme bon vous semble.
-- `.js`: JavaScript, est un langage de programmation qui va vous permettre d'ajouter des fonctionnalités dynamique à votre site. 
-- `.svg`: C'est un format d'image mais celui-ci est éditable en ligne de code, c'est pour cela qu'on le considère plutôt comme un fichier web, qu'une image.
-
-![css-html-js-logo](img/1/html_css_js.png)
-
-Lors de vos aventures de codeurs vous serrez sûrement amenés à utiliser  d'autres formats comme `.php` ou `.scss`. Mais vous verrez ceux-ci en temps voulu.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 

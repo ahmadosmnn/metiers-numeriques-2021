@@ -11,7 +11,7 @@ Dans les prochaines sessions de cours nous allons utiliser des logiciels tels qu
   - [Le RVB c’est quoi ?](#le-rvb-cest-quoi-)
   - [Le CMJN c’est quoi ?](#le-cmjn-cest-quoi-)
 - [Hexadécimal / RGB(A) / CMJN](#hexadécimal--rgba--cmjn)
-  - [HEX RGB](#hex-rgb)
+  - [HEX](#hex)
   - [RGB(A)](#rgba)
   - [CMJN](#cmjn)
   - [TSL](#tsl)
@@ -86,9 +86,9 @@ Le CMJN est donc le mode couleurs à utiliser pour toute impression afin de gara
 
 Il y a plusieurs façon d'utiliser une couleur dans les logiciels graphique ou sur le web. Voyons-en déjà quelques unes.
 
-### HEX RGB
+### HEX
 
-Peut-être avez-vous déjà vu ces codes couleurs `#FFFFFF`, `#BE1313`. Ce sont des codes de couleurs hexadecimal. Nous ne rentrerons pas dans les détails de où ça sort ou comment ça fonctionne. Mais en gros chaque couple de lettre permet de définir une teinte de couleur.
+Vous avez déjà vu ces codes couleurs `#FFFFFF`, `#BE1313`. Ce sont des codes de couleurs hexadecimal.
 
 ```css
 p { color: #FF0000 }
@@ -108,7 +108,7 @@ Pour utiliser des couleurs CMJN il suffit de renseigner une valeur de 0 à 100% 
 
 ### TSL
 
-On retrouve également la possibilité de définir notre couleur via la Teinte, Saturation et Luminosité. 
+On retrouve également la possibilité de définir notre couleur via la Teinte, Saturation et Luminosité.
 
 ![cmjn](img/2/cmjn.png)
 
