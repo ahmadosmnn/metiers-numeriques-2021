@@ -15,11 +15,11 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 - [Des artistes VFX utilisent Photoshop 1 :uk:](https://youtu.be/8LkUzVexLTU)
 - [Un graphiste utilise Photoshop 1 :uk:](https://youtu.be/ftaIzyrMDqE)
 
-![ps1](img/3/ps1-brush.png)
+![ps1](img/03/ps1-brush.png)
 
 > La fenêtre de l'outil pinceau en 1990
 
-![ps-brushes](img/3/ps-brushes.jpeg)
+![ps-brushes](img/03/ps-brushes.jpeg)
 
 > La fenêtre de l'outil pinceau en 2021
 
@@ -49,21 +49,21 @@ Si ça vous intéresse il y a pléthore de vidéo sur Youtube qui en parle, en v
 
 Lançons Photoshop et créons notre premier fichier. Pour ce faire cliquez sur le bouton ```Créer nouveau```
 
-![ps-new-file](img/3/ps-new.png)
+![ps-new-file](img/03/ps-new.png)
 
 S'ouvre ensuite une nouvelle fenêtre qui permet de créer notre nouveau document.
 
-![ps-new-file](img/3/ps-new-file.png)
+![ps-new-file](img/03/ps-new-file.png)
 
 Ce qui nous importe ici c'est le menu du haut avec les différents préréglages (Photo, Impression, Illustration, Web, Mobile,...). C'est là que l'on peut retrouver des formats de fichiers courants.
 
 Sélectionnons le réglage ```"Web - Le plus courant"```. Vous pouvez remarquer que dans la partie de droite de la fenêtre les dimensions, la résolution et d'autres paramètres se sont adaptés. Donnons également un titre à notre document. Puis on peut cliquer sur ```Créer```
 
-![ps-new-file2](img/3/ps-new-file2.png)
+![ps-new-file2](img/03/ps-new-file2.png)
 
 Et voilà on a notre nouveau document.
 
-![ps-new-file3](img/3/ps-new-file3.png)
+![ps-new-file3](img/03/ps-new-file3.png)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
@@ -71,7 +71,7 @@ Et voilà on a notre nouveau document.
 
 Intéressons-nous maintenant à l'interface. Elle est modulable selon vos désirs. A force de travailler dans Photoshop vous allez déplacer les différents panneaux pour mieux convenir à votre façon de travailler. Voyons comment l'interface est découpé lors du premier démarrage de Photoshop.
 
-![ps-interface](img/3/ps-interface.png)
+![ps-interface](img/03/ps-interface.png)
 
 1. **La barre des options:** C'est ici que vous pouvez retrouvez les options principales de l'outil en cours. Cette barre change donc dynamiquement en fonction de l'outil sélectionné. Sur la partie de droite vous pouvez aussi retrouvez des options rapides de connexion mais surtout la gestion de vos interfaces. Plus d'infos là dessus dans un instant
 2. **La fenêtre Document:** C'est ici que vous allez avoir la vue sur votre création.
@@ -80,19 +80,19 @@ Intéressons-nous maintenant à l'interface. Elle est modulable selon vos désir
 
 ### La gestion des interfaces
 
-![ps-gestion-interface](img/3/ps-gestion-interface1.png)
+![ps-gestion-interface](img/03/ps-gestion-interface1.png)
 
 Si vous cliquez sur cette icône vous devriez avoir une liste des différentes interfaces pré-définies dans Photoshop. Cela permet de changer la disposition des panneaux en fonction de l'utilité du logiciel que vous faites sur le moment. Le plus simple est de travailler avec ```Les Indispensables``` au début. Mais vous pouvez changer à tout moment. Ce qui est intéressant c'est de pouvoir ```Réinitialiser *l'interface*``` au cas où vous avez perdu vos panneaux.
 
-![ps-gestion-interface2](img/3/ps-gestion-interface2.png)
+![ps-gestion-interface2](img/03/ps-gestion-interface2.png)
 
 Il est également possible d'enregistrer votre espace de travail, par exemple avec une configuration pour quand vous êtes sur 2 écrans. Car oui, il est possible de placez vos panneaux en dehors de l'interface.
 
-![ps-gestion-interface3](img/3/ps-gestion-interface3.png)
+![ps-gestion-interface3](img/03/ps-gestion-interface3.png)
 
 Vous pouvez gérez tous vos panneaux dans le menu ```Fenêtre```. Vous retrouverez de nouveau les options pour gérer votre espace de travail mais aussi l'affichage ou non d'un panneau, ainsi qu'une option pour réorganiser vos fenêtres. N'hésitez pas à parcourir toutes ces options à votre rythme.
 
-![ps-gestion-interface3](img/3/ps-gestion-interface4.png)
+![ps-gestion-interface3](img/03/ps-gestion-interface4.png)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
@@ -106,54 +106,54 @@ Pour ouvrir une image dans Photoshop plusieurs méthodes s'offrent à vous. Vous
 
 ### Recadrage
 
-![recadrage](img/3/tools/recadrage.png) 
+![recadrage](img/03/tools/recadrage.png) 
 
 Cet outil permet de recadrer votre image, c'est à dire, réduire ses bords pour concentrer son regard sur une partie de l'image.
 
-![recadrage](img/3/tools/recadrage_exemple.png)
+![recadrage](img/03/tools/recadrage_exemple.png)
 
 ### Sélection
 
-![selection](img/3/tools/selection.png)
-![selection](img/3/tools/selection2.png)
+![selection](img/03/tools/selection.png)
+![selection](img/03/tools/selection2.png)
 
 Les outils de sélections permettent de choisir une partie de notre fichier pour travailler dedans ou pour la copier. Il est possible d'ajouter ou supprimer des zones de sélections avec les touches de modifications **SHIFT** ou **ALT**.
 
-![selection](img/3/tools/selection_example.png)
+![selection](img/03/tools/selection_example.png)
 
 ### Dessin Bitmap
 
-![bitmap](img/3/tools/bitmap.png)
+![bitmap](img/03/tools/bitmap.png)
 
 Tous ces outils vous permettent d'ajouter des pixels de différentes façons à votre image.
 
 ### La plume
 
-![plume](img/3/tools/plume.png)
+![plume](img/03/tools/plume.png)
 
 Un outil que l'on utilisera beaucoup plus dans Illustrator, la plume, permet de dessiner des courbes de bézier. Elle peut servir à faire des sélections plus complexes ou des formes différentes.
 
 ### Dégradé et remplissage
 
-![gradient](img/3/tools/gradient.png)
+![gradient](img/03/tools/gradient.png)
 
 L'outil dégradé et de remplissage permettent de remplir une image ou une zone rapidement d'une couleur, un dégradé ou de contenu pris en compte (content-aware).
 
 ### Pipette
 
-![pipette](img/3/tools/pipette.png)
+![pipette](img/03/tools/pipette.png)
 
 La pipette permet de sélectionner la couleur de n'importe quel pixel! Vous pouvez maintenir la touche **ALT** pour utiliser rapidement l'outil.
 
 ### Retouche
 
-![retouche](img/3/tools/retouche.png)
+![retouche](img/03/tools/retouche.png)
 
 L'outil **tampon** et **correcteur** vont vous permettre d'effectuer des corrections sur vos images. Cela permet de manipuler les pixels et d'en recréer des nouveaux pour par exemples effacer un objet indésirable sur une scène ou corriger les imperfections d'un modèle.
 
 ### Texte
 
-![texte](img/3/tools/texte.png)
+![texte](img/03/tools/texte.png)
 
 Cet outil vous permet de rajouter du texte à vos créations.
 
@@ -163,7 +163,7 @@ Il y a évidement encore beaucoup d'autres outils, à vous de le découvrir!
 
 ## Calques de réglages
 
-![reglages](img/3/tools/reglages.png)
+![reglages](img/03/tools/reglages.png)
 
 Les calques de réglages permettent d'ajuster votre image de différentes façon sans l'altérer. Par exemple, vous pouvez modifier la teinte et saturation de votre image, manipuler sa courbe, sa luminosité,...
 
@@ -171,7 +171,7 @@ Les calques de réglages permettent d'ajuster votre image de différentes façon
 
 ## Masque
 
-![masque](img/3/tools/masque.png)
+![masque](img/03/tools/masque.png)
 
 Sert à masquer une partie de l'image sans devoir en supprimer les pixels. Très utilisé pour détourer un sujet.
 
@@ -179,7 +179,7 @@ Sert à masquer une partie de l'image sans devoir en supprimer les pixels. Très
 
 ## Style de calque
 
-![style](img/3/tools/style.png)
+![style](img/03/tools/style.png)
 
 Permet d'ajouter des effets à votre calque comme par exemple des bordures, une ombre, une texture,... Il faut les utiliser avec modération, mais il y a moyen de réaliser de chouettes effets avec.
 
@@ -187,7 +187,7 @@ Permet d'ajouter des effets à votre calque comme par exemple des bordures, une 
 
 ## Filtres
 
-![filtres](img/3/tools/filtres.png)
+![filtres](img/03/tools/filtres.png)
 
 Toutes sortes de modifications que l'on peut apporter à notre image, comme par exemple flouter une partie de l'image, déformer ou accentuer une image,... Il faut également les utiliser avec parcimonie pour présenter un travail pro.
 

@@ -20,25 +20,25 @@ Dans les prochaines sessions de cours nous allons utiliser des logiciels tels qu
 
 Si je vous parle de couche cela devrait vous aider à mieux comprendre les calques, après tout le terme en anglais est "layer".
 
-![calques](./img/2/calques.gif)
+![calques](./img/02/calques.gif)
 
 > Animation d'un plan 3D pour appréhender le concept de calques
 
 Il faut imaginer qu'un calque c'est une feuille transparente, sur cette feuille on peut "dessiner" ce que l'ont veut. Ensuite on peut superposer une autre feuille transparente avec un autre dessin, et ainsi de suite. Lorsqu'on ajoute toutes ces feuilles l'une sur l'autre cela forme une image. L'ordre est super important, en fonction de qui est au plus haut dans la liste et qui est au plus bas, certains détails apparaîtront ou non.
 
-![calques-ps](img/2/calques-ps.png)
+![calques-ps](img/02/calques-ps.png)
 
 > Exemple d'un document `.psd` avec quelques calques. Regardez bien l'ordre des calques, le bâteau orange est par dessus le bâteau bleu, du coup ce dernier n'est pas entièrement affiché.
 
 Dans l'exemple suivant, j'ai juste remonté le calque de la photo de fond entre les différents personnages. Du coup, comme le bateau avec le personnage orange est toujours au dessus, celui-ci apparaît, les autres sont cachés en-dessous du fond.
 
-![calques-ps-2](img/2/calques-ps-2.png)
+![calques-ps-2](img/02/calques-ps-2.png)
 
 > Exemple de réaction suite à un changement d'ordre de calques
 
 Pour encore mieux comprendre le principe, voici un autre exemple où j'ai caché la photo. Vous pouvez voir du coup un fond en damier composé de carré blanc et gris. C'est un fond que Photoshop utilise pour nous signaler que cette partie là est transparente.
 
-![calques-ps-2](img/2/calques-opacity.png)
+![calques-ps-2](img/02/calques-opacity.png)
 
 > Regardez ces magnifiques carrés blanc et gris! C'est le fond transparent de votre image.
 
@@ -78,7 +78,7 @@ Son acronyme équivalent en anglais est CMYK (Cyan, Magenta, Yellow, Key black).
 
 Le CMJN est donc le mode couleurs à utiliser pour toute impression afin de garantir un résultat optimal.
 
-![rvb-cmjn-diff](./img/2/rvb-cmjn.jpeg)
+![rvb-cmjn-diff](./img/02/rvb-cmjn.jpeg)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
@@ -110,7 +110,7 @@ Pour utiliser des couleurs CMJN il suffit de renseigner une valeur de 0 à 100% 
 
 On retrouve également la possibilité de définir notre couleur via la Teinte, Saturation et Luminosité.
 
-![cmjn](img/2/cmjn.png)
+![cmjn](img/02/cmjn.png)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
