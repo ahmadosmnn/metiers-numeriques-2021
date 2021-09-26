@@ -7,7 +7,7 @@ Voyons un peu comment on écrit du JavaScript.
 ## Table des matières
 
 - [Valeurs](#valeurs)
-  - [Literales](#literales)
+  - [Littérales (Literals)](#littérales-literals)
 - [Les variables](#les-variables)
 - [Les opérateurs](#les-opérateurs)
 - [Les expressions](#les-expressions)
@@ -24,7 +24,7 @@ Il existe deux types de valeurs en JS:
 - Les valeurs fixes (Literals)
 - Les valeurs variables (Variables)
 
-### Literales
+### Littérales (Literals)
 
 Les 2 règles les plus important concernant les valeurs fixes sont:
 
