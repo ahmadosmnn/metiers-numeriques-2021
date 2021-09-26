@@ -11,3 +11,5 @@
 ## Gif Animé
 
 :hammer_and_wrench: *work in progress*
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)

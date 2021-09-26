@@ -40,3 +40,5 @@ Voici quelques exemples:
 ![minimalposter2](img/06/minimal_poster2.png)
 ![minimalposter3](img/06/minimal_poster3.png)
 ![minimalposter4](img/06/minimal_poster4.jpeg)
+
+[:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
