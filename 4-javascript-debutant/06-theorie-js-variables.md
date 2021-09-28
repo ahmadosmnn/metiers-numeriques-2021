@@ -6,6 +6,14 @@ Voyons un peu plus en détails les variables en JavaScript. Il y a trois solutio
 <!-- omit in toc -->
 ## Table des matières
 
+- [Variables](#variables)
+- [Déclarer une variable](#déclarer-une-variable)
+- [Assigner une valeur](#assigner-une-valeur)
+- [Déclarer et assigner](#déclarer-et-assigner)
+- [Une déclaration, plusieurs variables](#une-déclaration-plusieurs-variables)
+- [Type de données](#type-de-données)
+- [Le cas de `const`](#le-cas-de-const)
+
 ## Variables
 
 Les variables sont comme des conteneurs pour stocker vos valeurs et pouvoir les réemployer plus tard.

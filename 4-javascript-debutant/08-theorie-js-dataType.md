@@ -74,7 +74,7 @@ Retenez aussi pour l'instant que le premier élément du tableau est le numéro 
 
 Un peu comme un tableau mais en plus précis. On va écrire notre objet avec des curly braces (accolades). 
 
-On indique ensuite les propriétés de l'objets en suivant le schéma suivant: name:value. Et on sépare les différentes entrées par une virgule (,).
+On indique ensuite les propriétés de l'objets en suivant le schéma suivant: `name:value`. Et on sépare les différentes entrées par une virgule (,).
 
 ```js
 const horizon = {
