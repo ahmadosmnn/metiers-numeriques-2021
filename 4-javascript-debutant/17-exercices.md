@@ -23,4 +23,11 @@ Mais rien ne vous empêche d'essayer les autres exercices en allant voir leurs e
 
 Bon il est temps de faire vos premiers scripts vous même après toute cette théorie. 
 
-:hammer_and_wrench: Work in progress :exclamation:
+1. [Vos premiers pas](exercices/01-ex-js-premiers.md)
+2. [Vos premières variables](exercices/02-ex-js-variables.md)
+3. [Vos premières opérations](exercices/03-ex-js-operators.md)
+4. [Vos premières fonctions](exercices/04-ex-js-functions.md)
+5. [Vos premières conditions](exercices/05-ex-js-condition.md)
+6. [Votre premier objet] :hammer_and_wrench: Work in progress :exclamation:
+7. [Votre premier tableau] :hammer_and_wrench: Work in progress :exclamation:
+8. [Votre première loop] :hammer_and_wrench: Work in progress :exclamation:
