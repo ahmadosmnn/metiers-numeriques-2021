@@ -39,7 +39,7 @@ if (price < 30) {
 ```js
 if (price < 30) {
   console.log("Vous faites une affaire")
-} else if (price = 40) {
+} else if (price == 40) {
   console.log("C'est pas mal comme prix")
 } else {
   console.log("C'est trop cher")
