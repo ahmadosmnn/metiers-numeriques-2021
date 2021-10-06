@@ -94,7 +94,7 @@ Comme nous venons de le voir le serveur est un contenant des fichiers programmé
 
 Nous distinguons 2 types de serveur:
 
-- Le serveur local (ou localhost, disponible par défaut dans votre navigateur à l'URL: http://localholst:8000).
+- Le serveur local (ou localhost, disponible par défaut dans votre navigateur à l'URL: http://localhost:8000).
 - Le web hosting ou serveur distant (disponible à l'URL personnalisée du propriétaire de l'application ou site web).
 
 [:arrow_up: Revenir au top](#table-des-matières)

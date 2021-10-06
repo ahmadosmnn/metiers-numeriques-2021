@@ -13,6 +13,7 @@ Il existe une multitude de balises à utiliser pour rédiger un document HTML, n
 - [Un peu de sémantique](#un-peu-de-sémantique)
   - [SEO](#seo)
   - [Accessibilité](#accessibilité)
+- [Classe et ID](#classe-et-id)
 - [La balise `<div>`](#la-balise-div)
 - [La balise `<p>`](#la-balise-p)
 - [Les balises `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`](#les-balises-h1-h2-h3-h4-h5-h6)
@@ -81,24 +82,22 @@ On veut que votre page soit accessible au plus de personne possible, y compris l
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
+## Classe et ID
+
+Pour identifier nos différentes balises et les différentier, on peut leurs attribuer des `classes`et des `id`. 
+
+- **classe**: peut être multiplié sur la page.
+- **id**: doit être unique sur la page.
+
 ## La balise `<div>`
 
-La **div**ision est un conteneur. Cette balise permet de structurer sa page en "bloc". On a généralement un bloc "header", "content", "sidebar" et "footer". Dans ces balises on insérera le contenu adéquat.
+La **div**ision est un conteneur. Cette balise permet de structurer sa page en "bloc". Dans ces balises/bloc on insérera le contenu adéquat (image, texte, liens,....).
 
 ```html
-<div id="header">
-  <p>contenu du header</p>
+<div class="container">
+  <p>contenu</p>
 </div>
 ```
-
-> :wrench: Vite fait, voyons ce que sont ces blocs:
-
-- `Header`: c'est la tête de votre page, dans ce bloc on va insérer le logo de notre site ainsi qu'un menu. Il se trouve en haut de la page.
-- `Content`: c'est le contenu de notre page, tous les textes et images que les visiteurs verront. En fonction de la masse de contenu à afficher, il peut être judicieux d'imbriquer d'autres blocs à l'intérieur de content pour une meilleur organisation ou pour styliser votre contenu autrement (exemple: "mes diplômes", "mon parcours", "mes skills",...)
-- `Sidebar`: n'est pas toujours présent, sert a insérer un menu sur le côté ou tout autre contenu qui doit apparaître à côté du content.
-- `Footer`: c'est le pied de page, c'est là qu'on marque les copyrights, qu'on insère un menu ou quelques informations supplémentaires.
-
-> Tout ceci n'est pas à respecter à la lettre. Vous pouvez casser les codes, mais attention, soyez sûr de ce que vous faites. :smile:
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
