@@ -2,11 +2,6 @@
 
 Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on a déjà vu assez de théorie que pour commencer ton premier exercice en HTML!
 
-- Type de challenge: apprentissage
-- Durée: 1 jour :clock2:
-- Date de remise: vendredi 13 août 16h :bell:
-- Comment rendre: envoie moi ta page par Discord :email:
-
 ## Consignes
 
 - Ouvre VSCode
@@ -31,10 +26,14 @@ Quoi? Comment? Déjà un exercice? Mais comment cela est-il possible? Et bien on
 
 - Retournez lire la théorie vue plus tôt
 - Pourquoi ne pas essayer d'insérer une Google Font?
-- Si vraiment vous voulez aller plus loin, vous pouvez essayer une mise en page avec `Flexbox` ou en `Grid` mais pas de panique on verra ça ensemble par après.
+- Si vraiment tu veux aller plus loin, tu peux essayer une mise en page avec `Flexbox` ou en `Grid` mais pas de panique on verra ça ensemble par après.
 
 ## Courage!
 
-Cet exercice peut te sembler impossible si tu n'as aucune base d'HTML, mais ne t'en faites pas, le but ici c'est d'essayer d'allez le plus loin possible et d'apprendre à chercher par soi même. Nous approfondirons tes connaissances avec la suite de la matière et lors d'autres exercices.
+Cet exercice peut te sembler impossible mais ne t'en faites pas, le but ici c'est d'essayer d'allez le plus loin possible et d'apprendre à chercher un peu par soi même. Nous approfondirons tes connaissances avec la suite de la matière et lors d'autres exercices ;) 
+
+## Exemple
+
+![exemple-recette](img/06/exemple-recette.png)
 
 [:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
