@@ -116,12 +116,12 @@ P pour paragraphe, c'est la balise la plus courante pour rédiger du texte. C'es
 Ce sont les balises de titre. Il y en a 6 au total et pas plus. Chaque titre inclut un saut à la ligne. Le style de chaque titre est pré-défini par le navigateur mais peut être changé dans le style css.
 
 ```html
-<h1>Je suis un titre de niveau 1, le plus important<h1>
-<h2>Je suis un titre de niveau 2<h2>
-<h3>Je suis un titre de niveau 3<h3>
-<h4>Je suis un titre de niveau 4<h4>
-<h5>Je suis un titre de niveau 5<h5>
-<h6>Je suis un titre de niveau 6, le moins important<h6>
+<h1>Je suis un titre de niveau 1, le plus important</h1>
+<h2>Je suis un titre de niveau 2</h2>
+<h3>Je suis un titre de niveau 3</h3>
+<h4>Je suis un titre de niveau 4</h4>
+<h5>Je suis un titre de niveau 5</h5>
+<h6>Je suis un titre de niveau 6, le moins important</h6>
 ```
 
 [:arrow_up: Revenir au top](#table-des-matières)
