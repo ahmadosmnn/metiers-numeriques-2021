@@ -207,11 +207,12 @@ Cette balise sert à insérer une image dans votre page. Elle peut se placer un 
 Il est maintenant temps d'insérer un lien dans votre code. Pour ce faire on utilise la balise `<a>`. Elle se place un peu où vous voulez et doit surtout englober un contenu comme du texte, une image ou même une `<div>`.
 
 ```html
-<a href="mon lien" title="titre du lien">Mon texte cliquable</a>
+<a href="mon lien" title="titre du lien" target="_blank">Mon texte cliquable</a>
 ```
 
 - `href:` c'est l'attribut qui prend comme valeur le lien vers lequel l'utilisateur sera redirigé en cliquant. Il peut être externe ou interne.
 - `title:` sert à préciser à l'utilisateur une information par rapport au lien lorsqu'il survole le lien avec sa souris.
+- `target:` permet de préciser si le lien doit s'ouvrir à un endroit spécifique. Par exemple avec `_blank`, le lien s'ouvrira dans un nouvel onglet.
 
 ### Les ancres
 
