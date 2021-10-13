@@ -88,8 +88,8 @@ On insère dans notre balise HTML un attribut **class** dont la **valeur** peut-
 ```
 
 ```css
-p{color: yellow}
-.important{color: red}
+p{color: yellow;}
+.important{color: red;}
 ```
 
 Il est également possible d'utiliser plusieurs classes, on les sépare par des espaces tout simplement.
