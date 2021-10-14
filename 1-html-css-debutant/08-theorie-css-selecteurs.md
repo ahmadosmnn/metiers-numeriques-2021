@@ -191,7 +191,7 @@ Pas si compliqué, n'est-ce pas??
 
 > :video_game: Petit jeu sympa pour s'entraîner aux sélecteurs: [http://flukeout.github.io/](http://flukeout.github.io/)
 
-Il reste un ""tout petit"" sujet à abordé pour que tu sois fin prêt à te lancer dans le vase monde du CSS: [les propriétés](9-theorie-css-prorietes.md)
+Il reste un ""tout petit"" sujet à abordé pour que tu sois fin prêt à te lancer dans le vase monde du CSS: [les propriétés](09-theorie-css-prorietes.md)
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
