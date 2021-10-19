@@ -148,15 +148,15 @@ Si on ne met pas d'espace entre nos sélecteurs, cela signifie que toutes les co
 p.important { ... }
 ```
 
-> Ciblera tous les **paragraphes** qui ont une classe **important**
+> Dans l'exemple au dessus on ciblera tous les **paragraphes** qui ont une classe **important**
 
-Si on ne met pas d'espace, on cible la hiérarchie. 
+Si on met un espace, on cible la hiérarchie. 
 
 ```css
 p .important { ... }
 ```
 
-> Ciblera toutes les classes **important** qui ont sont descendants d'un paragraphe
+> Dans l'exemple au dessus on ciblera toutes les classes **important** qui ont sont descendants d'un paragraphe
 
 Voyez comme un simple espace peut faire ou défaire votre page. Soyez attentif  et utilisez l'inspecteur de votre navigateur pour cibler plus facilement le problème.
 

@@ -21,9 +21,10 @@ Alors, on va faire au plus court, car des propriétés il y en a beaucoup... vra
   - [border-radius](#border-radius)
   - [background-color](#background-color)
   - [background-image](#background-image)
+  - [background-size](#background-size)
   - [background-repeat](#background-repeat)
   - [background-position](#background-position)
-  - [background-attachement](#background-attachement)
+  - [background-attachment](#background-attachment)
   - [En une ligne](#en-une-ligne)
 - [Dimensions, margin et padding](#dimensions-margin-et-padding)
   - [Inline et block](#inline-et-block)
@@ -32,16 +33,17 @@ Alors, on va faire au plus court, car des propriétés il y en a beaucoup... vra
 - [Display](#display)
   - [display: block](#display-block)
   - [display: inline](#display-inline)
+  - [display: inline-block](#display-inline-block)
   - [display: none](#display-none)
 - [Positionnement](#positionnement)
   - [float](#float)
   - [clear](#clear)
   - [Z-index](#z-index)
-- [`Position`](#position)
-  - [`position: static`](#position-static)
-  - [`position: fixed`](#position-fixed)
-  - [`position: relative`](#position-relative)
-  - [`position: absolute`](#position-absolute)
+- [Position](#position)
+  - [position: static](#position-static)
+  - [position: fixed](#position-fixed)
+  - [position: absolute](#position-absolute)
+  - [position: relative](#position-relative)
 - [L'auto-complete de VSCode](#lauto-complete-de-vscode)
 
 ## Typographie
@@ -237,6 +239,18 @@ Place une image en arrière-plan du bloc sélectionné.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
+### background-size
+
+```css
+body{
+  background-size: cover;
+}
+```
+
+Permet de gérer la taille de notre image grâce à : **auto**, **cover**, **contain**,...
+
+![bg-size](img/09/bg-size.png)
+
 ### background-repeat
 
 ```css
@@ -273,11 +287,11 @@ Permet de donner la position de l'image de fond par rapport au coin haut gauche.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### background-attachement
+### background-attachment
 
 ```css
 body{
-  background-attachement: fixed;
+  background-attachment: fixed;
 }
 ```
 
@@ -371,6 +385,8 @@ a{
 
 Permet de changer les éléments **inline** en block. Par défaut il prend toute la largeur de son parent et est suivi d'un retour à la ligne.
 
+Peux être modifié en **width** et **height**.
+
 [:arrow_up: Revenir au top](#table-des-matières)
 
 ### display: inline
@@ -381,7 +397,21 @@ p{
 }
 ```
 
-Permet de transformer l'élement en type inline ce qui aura pour effet de le laisser sur une seule ligne.
+Permet de transformer l'élément en type inline ce qui aura pour effet de le laisser sur une seule ligne.
+
+Ne peux pas être modifié en **width** et **height**.
+
+[:arrow_up: Revenir au top](#table-des-matières)
+
+### display: inline-block
+
+```css
+p{
+  display: inline-block;
+}
+```
+
+Peux être modifié en **height** mais pas en **width**.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
@@ -439,17 +469,17 @@ img{
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-## `Position`
+## Position
 
 Cette propriété permet de positionner les éléments dans la page. Prends comme valeurs: **static**, **relative**, **absolute** ou **fixed**
 
-### `position: static`
+### position: static
 
 Valeur par défaut de tous les éléments. Un élément avec position static n'est positionné d'aucune manière spéciale.
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### `position: fixed`
+### position: fixed
 
 ```css
 .nav {
@@ -464,22 +494,9 @@ Un élément positionné avec **fixed** ne bougera pas. Il sortira du flux de la
 
 [:arrow_up: Revenir au top](#table-des-matières)
 
-### `position: relative`
+### position: absolute
 
-```css
-.content a {
-  position: relative;
-  top: -15px
-}
-```
-
-Un élément se comporte de la même manière que avec static. On peut se servir des propriétés **top**, **left**, **right**, **bottom** pour déplacer l'élement. Le reste du contenu ne sera pas affecté.
-
-[:arrow_up: Revenir au top](#table-des-matières)
-
-### `position: absolute`
-
-Un élément en position absolute sort du flux et se positionne par rapport à son dernier ancêtre positionné. Si aucun ancêtre n'est positionné, il se positionnera par rapport à \<html>. On doit positionner le parent avec une position relative, fixed ou absolute.
+Un élément en `position:absolute` se placera par rapport à son parent direct. 
 
 ```css
 h2 {
@@ -488,6 +505,24 @@ h2 {
   top: 150px;
 }
 ```
+
+### position: relative
+
+Si l'on veut placer un élément par rapport à un autre, on va mettre ce dernier en `position:relative`.
+
+```css
+.content .a {
+  position: relative;
+}
+
+.content .b {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+```
+
+Un élément se comporte de la même manière que avec static. On peut se servir des propriétés **top**, **left**, **right**, **bottom** pour déplacer l'élément. Le reste du contenu ne sera pas affecté.
 
 Pour mieux comprendre les positions, voici un lien vers [la documentation de cette balise sur W3School](https://www.w3schools.com/css/css_positioning.asp). Il y a pleins d'exemples.
 
