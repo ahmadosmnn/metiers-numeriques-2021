@@ -348,15 +348,25 @@ img{
 ![marges](img/09/marges.png)
 
 ```css
+// On aura des marges équivalente de chaque côté
 .same{
   margin: 10px;
   padding: 5px;
 }
+  // On peut sélectionner chaque marge séparément
 .different{
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 5px;
   margin-right: 2px;
+}
+  // On peut sélectionner chaque marge séparément mais en une seule ligne en commençant par celle du haut puis en suivant le sens horloger
+.different-but-one-line{
+  margin: 10px 10px 5px 2px;
+}
+  // On peut sélectionner les marges du top et bottom et du left et right.
+.different-one-line-two-values{
+  margin: 10px 5px;
 }
 ```
 

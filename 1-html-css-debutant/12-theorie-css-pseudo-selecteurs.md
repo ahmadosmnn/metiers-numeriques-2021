@@ -19,6 +19,7 @@ Vous avez peut-être déjà vu certains mot-clé derrière des sélecteurs en CS
   - [First-letter & First-line](#first-letter--first-line)
   - [Selection](#selection)
   - [Tous les pseudo-element](#tous-les-pseudo-element)
+- [On combine tout!](#on-combine-tout)
 
 ## Pseudo-class
 
@@ -89,18 +90,18 @@ p:first-child{
 <p>Je n'aurai pas de couleur spécifique</p>
 ```
 <!-- omit in toc -->
-#### Sélectionner la première balise `<i>` dans toutes les `<p>`
+#### Sélectionner la première balise `<em>` dans toutes les `<p>`
 
 ```html
 <style>
-  p i:first-child{
+  p em:first-child{
     color:red;
   }
 </style>
-<p>Je suis une phrase, <i>moi je serai en rouge</i> et <i>moi, comme je suis le deuxième, je ne le serai pas</i></p>
+<p>Je suis une phrase, <em>moi je serai en rouge</em> et <em>moi, comme je suis le deuxième élément en italique, je ne le serai pas</em></p>
 ```
 <!-- omit in toc -->
-#### Sélectionner tous les balises `<i>` dans le "first-child" `<p>`
+#### Sélectionner toutes les balises `<em>` dans le "first-child" `<p>`
 
 ```html
 <style>
@@ -108,8 +109,8 @@ p:first-child{
     color: red;
   }
 </style>
-<p>Salut <i>je serai en rouge</i> et <i>moi aussi</i></p>
-<p>Salut <i>je serai PAS en rouge</i> et <i>moi NON PLUS</i></p>
+<p>Salut <em>je serai en rouge</em> et <em>moi aussi</em></p>
+<p>Salut <em>je serai PAS en rouge</em> et <em>moi NON PLUS</em></p>
 ```
 
 ### Last-child
@@ -200,7 +201,7 @@ Voici [un lien vers la MDN et toutes les pseudo-class](https://developer.mozilla
 
 ## Pseudo-Element
 
-Les pseudo-element sont des mots-clés que l'on rajoute à la fin d'un sélecteur pour sélectionner une partie précise de l'élement.
+Les pseudo-element sont des mots-clés que l'on rajoute à la fin d'un sélecteur pour sélectionner une partie précise de l'élément.
 
 Il se note à la suite d'un sélecteur avec `::pseudo-element`
 
@@ -221,11 +222,11 @@ a::after{
 
 ### First-letter & First-line
 
-Permet de sélectionner la première lettre ou ligne d'un élement.
+Permet de sélectionner la première lettre ou ligne d'un élément.
 
 ```css
 p::first-letter {
-  font-size: 130%;
+  font-size: 230%;
 }
 p::first-line {
   color: red;
@@ -248,5 +249,17 @@ Permet de styliser la sélection d'un élément par l'utilisateur.
 ### Tous les pseudo-element
 
 Il existe encore quelques autres pseudo-element, mais rien de bien utile dans le cadre de ce cours, voici tout de même [un lien vers la doc.](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+## On combine tout!
+
+Il est tout à fait possible de combiner plusieurs pseudo-sélecteur.
+
+```css
+  p:nth-child(even):hover::first-letter {
+    color:red;
+  }
+```
+
+> :bulb: Ici on sélectionne la première lettre de tous les paragraphe pair et on applique une couleur dessus quand on passe notre souris par dessus cet élément (tout le paragraphe). C'est un peu tiré par les cheveux, mais ça fonctionne.
 
 [:rewind: Retour au sommaire du cours](./README.md#table-des-matières)
