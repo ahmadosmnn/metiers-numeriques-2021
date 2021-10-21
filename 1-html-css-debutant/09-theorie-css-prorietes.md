@@ -362,7 +362,7 @@ img{
 }
   // On peut sélectionner chaque marge séparément mais en une seule ligne en commençant par celle du haut puis en suivant le sens horloger
 .different-but-one-line{
-  margin: 10px 10px 5px 2px;
+  margin: 10px 2px 10px 5px;
 }
   // On peut sélectionner les marges du top et bottom et du left et right.
 .different-one-line-two-values{
