@@ -173,8 +173,8 @@ C'est avec les keyframes qu'on va définir comment notre animation fonctionne et
 
 ```css
 @keyframes move-right{
-  from{ transform: translate(0) }
-  to{ transform: translate(500px) } 
+  from{ transform: translateX(0) }
+  to{ transform: translateX(500px) } 
 }
 ```
 

@@ -21,7 +21,7 @@
 
 ## Le sélecteur d'HTML
 
-Vous pouvez sélectionner n'importe quel élement HTML et lui appliquer un style, tous les élements de la page seront impacté.
+Vous pouvez sélectionner n'importe quel élément HTML et lui appliquer un style, tous les éléments de la page seront impacté.
 
 ```css
 p{
@@ -105,7 +105,7 @@ Une classe peut être utilisé sur plusieurs balises dans la même document.
 Il est également possible de cibler une balise HTML avec une classe. Pour ce faire on utilise la manière suivante:
 
 ```css
-p.maclasse{ ... }
+p.maClasse{ ... }
 ````
 
 Cela ciblera tous les éléments `<p class="maclasse">`
@@ -125,11 +125,11 @@ button.btn.btn-default{ ... }
 C'est la même chose qu'une classe sauf qu'il doit être unique sur la page, il sera moins utilisé. On ne peut utiliser qu'un id par balise. On le cible avec #
 
 ```html
-<p id="monid">
+<p id="monId">
 ```
 
 ```css
-#monid { ... }
+#monId { ... }
 ```
 
 ## On mélange tout!
@@ -137,8 +137,10 @@ C'est la même chose qu'une classe sauf qu'il doit être unique sur la page, il 
 Il est tout à fait possible de mélanger tous ces sélecteurs ensembles. Mais attention à ne pas créer du code CSS trop spécifique. 
 
 ```css
-p#monird.maclasse { ... }
+p#monId.maClasse { ... }
 ```
+
+> :bulb: Ici on sélectionne tous les paragraphes qui ont la classe `maClasse` et l'id `monId`
 
 ## Espace
 

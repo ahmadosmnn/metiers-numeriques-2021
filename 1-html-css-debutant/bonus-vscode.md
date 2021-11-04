@@ -57,7 +57,7 @@ Et on peut encore pousser le vice plus loin en demandant directement de nous cr�
 
 ### Contenu, Class et ID, multiplicateur, Attribut
 
-Comme vu plus haut il y a donc moyen de préciser à Emmet le contenu de notre balise en utiliser les `{}`. Il est également possible de lui demander de compter pour nous le nombre d'élément qu'il crée en utilisant `$`, cela va ajouter un chiffre pour chaque fois qu'il doit répéter l'opération avec `*x`
+Comme vu plus haut il y a donc moyen de préciser à Emmet le contenu de notre balise en utilisant les `{}`. Il est également possible de lui demander de compter pour nous le nombre d'élément qu'il crée en utilisant `$`, cela va ajouter un chiffre pour chaque fois qu'il doit répéter l'opération avec `*x`
 
 C'est possible de donner la valeur d'un attribut également en utilisant `[]`. Il suffit d'écrire le nom de l'attribut de notre balise comme dans cet exemple: `a[href="#"]`
 
