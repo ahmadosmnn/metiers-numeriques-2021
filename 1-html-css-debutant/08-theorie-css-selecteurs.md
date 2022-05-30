@@ -182,8 +182,7 @@ p * {...}
 
 - un nom de classe ou d'ID ne doit pas avoir d'accent ou caractères spéciaux.
 - On a tendance à éviter le "tout majuscule"
-- Un nom d'ID ne prend jamais d'espace
-- Un nom de classe ne prend jamais d'espace, sinon c'est une nouvelle classe
+- Un nom de classe ou ID ne prend jamais d'espace, sinon c'est une nouvelle classe
 
 [:arrow_up: Revenir au top](#table-des-matières)
 

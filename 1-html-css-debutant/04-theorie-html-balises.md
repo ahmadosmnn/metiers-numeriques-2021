@@ -243,7 +243,7 @@ Ici je possède deux images, une dans un dossier *Images* et l'autre à la racin
     <img src="logo.jpg" alt="mon logo"/>
   </div>
   <div id="content">
-    <img src="/images/monImage.jpg">``
+    <img src="/images/monImage.jpg"/>
   </div>
 </body>
 ```
